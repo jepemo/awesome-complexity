@@ -1,10 +1,13 @@
 # awesome-complexity
 Complexity
 
-# Definition
-> << ... about complexity science, which is an interdisciplinary field—at the intersection of mathematics, computer science and natural science—that focuses on discrete models of physical systems. In particular, it focuses on complex systems, which are systems with many interacting components. ... >> - [Think Complexity Book](http://greenteapress.com/complexity/html/index.html)
+# Definitions
+> About complexity science, which is an interdisciplinary field—at the intersection of mathematics, computer science and natural science—that focuses on discrete models of physical systems. In particular, it focuses on complex systems, which are systems with many interacting components. - [Think Complexity Book](http://greenteapress.com/complexity/html/index.html)
 
 > Complexity characterises the behaviour of a system or model whose components interact in multiple ways and follow local rules, meaning there is no reasonable higher instruction to define the various possible interactions. - [Wikipedia](https://en.wikipedia.org/wiki/Complexity)
+
+> Complexity theory is really a movement of the sciences. Standard sciences tend to see the world as mechanistic. That sort of science puts things under a finer and finer microscope. In biology the investigations go from classifying organisms to functions of organisms, then organs themselves, then cells, and then organelles, right down to protein and enzymes, metabolic pathways, and DNA. This is finer and finer reductionist thinking.
+The movement that started complexity looks in the other direction. It’s asking, how do things assemble themselves? How do patterns emerge from these interacting elements? Complexity is looking at interacting elements and asking how they form patterns and how the patterns unfold. It’s important to point out that the patterns may never be finished. They’re open-ended. In standard science this hit some things that most scientists have a negative reaction to. Science doesn’t like perpetual novelty. - [Wikiquote](https://en.wikiquote.org/wiki/Systems_theory)
 
 # Books
 
