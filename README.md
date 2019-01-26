@@ -1,4 +1,4 @@
-# awesome-complexity
+# [awesome-complexity](https://github.com/jepemo/awesome-complexity) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Complexity
 
 # Definitions
@@ -6,8 +6,7 @@ Complexity
 
 > Complexity characterises the behaviour of a system or model whose components interact in multiple ways and follow local rules, meaning there is no reasonable higher instruction to define the various possible interactions. - [Wikipedia](https://en.wikipedia.org/wiki/Complexity)
 
-> Complexity theory is really a movement of the sciences. Standard sciences tend to see the world as mechanistic. That sort of science puts things under a finer and finer microscope. In biology the investigations go from classifying organisms to functions of organisms, then organs themselves, then cells, and then organelles, right down to protein and enzymes, metabolic pathways, and DNA. This is finer and finer reductionist thinking.
-The movement that started complexity looks in the other direction. It’s asking, how do things assemble themselves? How do patterns emerge from these interacting elements? Complexity is looking at interacting elements and asking how they form patterns and how the patterns unfold. It’s important to point out that the patterns may never be finished. They’re open-ended. In standard science this hit some things that most scientists have a negative reaction to. Science doesn’t like perpetual novelty. - [Wikiquote](https://en.wikiquote.org/wiki/Systems_theory)
+> Complexity theory is really a movement of the sciences. Standard sciences tend to see the world as mechanistic...The movement that started complexity looks in the other direction. It’s asking, how do things assemble themselves? How do patterns emerge from these interacting elements? Complexity is looking at interacting elements and asking how they form patterns and how the patterns unfold. - [Wikiquote](https://en.wikiquote.org/wiki/Systems_theory)
 
 # Books
 
@@ -22,5 +21,9 @@ The movement that started complexity looks in the other direction. It’s asking
 
 [**Introduction to Complexity**](https://www.complexityexplorer.org/courses/89-introduction-to-complexity) by the [Complexity Explorer/Santa Fe Institute](https://www.complexityexplorer.org/) - In this course you'll learn about the tools used by scientists to understand complex systems. The topics you'll learn about include dynamics, chaos, fractals, information theory, self-organization, agent-based modeling, and networks.
 
-# References
-- [N] [Complex systems science resources Awesome list](https://github.com/sellisd/awesome-complexity)
+[**Fractals and Scaling**](https://www.complexityexplorer.org/courses/93-fractals-and-scaling) by the [Complexity Explorer/Santa Fe Institute](https://www.complexityexplorer.org/) - Overview of how ideas from fractals and scaling are used to study complex systems.
+
+# Other Resources
+- [Another Complexity Awesome list](https://github.com/sellisd/awesome-complexity)
+- [Complexity Explorer](https://www.complexityexplorer.org) - Provides online courses and educational materials about complexity science
+- [Map of Complex systems History](http://www.art-sciencefactory.com/complexity-map_feb09.html) - An impressive overview of the evolution of complex systems thinking.
