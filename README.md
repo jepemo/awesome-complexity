@@ -22,6 +22,8 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 ![Map of complexity science](Map-of-complexity-science.jpg "Map of complexity science")
 
+[Source](https://en.wikipedia.org/wiki/File:Map-of-complexity-science.jpg)
+
 # Books
 
 [**Complexity: A Guided Tour**](https://www.amazon.com/gp/product/0199798109/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0199798109&linkCode=as2&tag=jepemolinks-20&linkId=425bcd3ff350748f2bb13e85663a4920) by [Melanie Mitchell](https://scholar.google.es/citations?user=k4gbv2AAAAAJ&hl=ca&oi=ao) - Tour of the sciences of complexity, a broad set of efforts that seek to explain how large-scale complex, organized, and adaptive behavior can emerge from simple interactions among myriad individuals.
