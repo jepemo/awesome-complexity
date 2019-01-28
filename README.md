@@ -20,9 +20,14 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 > Complexity theory is really a movement of the sciences. Standard sciences tend to see the world as mechanistic...The movement that started complexity looks in the other direction. It’s asking, how do things assemble themselves? How do patterns emerge from these interacting elements? Complexity is looking at interacting elements and asking how they form patterns and how the patterns unfold. - [Wikiquote](https://en.wikiquote.org/wiki/Systems_theory)
 
+
 ![Map of complexity science](Map-of-complexity-science.jpg "Map of complexity science")
 
 [Source](https://en.wikipedia.org/wiki/File:Map-of-complexity-science.jpg)
+
+## Glossary
+ - [Entropy](https://en.wikipedia.org/wiki/Entropy) - Definition.....
+ - More definitions in the [Complexity Explorer Page](https://www.complexityexplorer.org/explore/glossary).
 
 # Books
 
@@ -30,10 +35,15 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Think Complexity: Complexity Science and Computational Modeling**](https://www.amazon.com/gp/product/1492040207?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=1492040207) by [Allen Downey](https://scholar.google.es/citations?user=GxBFR3sAAAAJ&hl=ca&oi=ao) - Introduction to complexity where you’ll use graphs, cellular automata, and agent-based models to study topics in physics, biology, and economics, using Python as a programming language.
 
+[**Vida artificial: del Caos al Orden** (Spanish)](https://www.amazon.com/gp/product/8493138266/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8493138266&linkCode=as2&tag=jepemolinks-20&linkId=b912007851d458366f6b2ee88ef19b1d) by [José Gabriel Segarra](https://www.amazon.es/JOSE-GABRIEL-SEGARRA-BERENGUER-Libros/s?ie=UTF8&page=1&rh=n%3A599364031%2Ck%3AJOSE%20GABRIEL%20SEGARRA%20BERENGUER) - Easy introduction to many concepts of complex systems.
+
 [**Chaos: Making a New Science**](https://www.amazon.com/gp/product/0143113453?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0143113453) by [James Gleick](https://es.wikipedia.org/wiki/James_Gleick) - Describes the Mandelbrot set, Julia sets, and Lorenz attractors without using complicated mathematics. It portrays the efforts of dozens of scientists whose separate work contributed to the developing field. The text remains in print and is widely used as an introduction to the topic for the mathematical layperson.
 
 # Articles
-List of important articles
+
+- [ON COMPUTABLE NUMBERS, WITH AN APPLICATION TO
+THE ENTSCHEIDUNGSPROBLEM](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) - Explains the concept of Turing Machine, that is a mathematical model of computation that defines an abstract machine.
+
 
 # Courses
 
