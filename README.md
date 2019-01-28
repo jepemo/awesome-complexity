@@ -1,12 +1,26 @@
 # [awesome-complexity](https://github.com/jepemo/awesome-complexity) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Complexity
 
-# Definitions
+A curated list of amazingly awesome **Complexity Science** resources, courses  and shiny things inspired by the [Complexity Explorer/Santa Fe Institute](https://www.complexityexplorer.org/).
+
+There are [other sites with](https://github.com/sellisd/awesome-complexity) curated lists of resources about Complexity science which you can have a look at.
+
+- [Awesome Complexity](#awesome-complexity)
+  - [Concepts](#concepts)
+    - [Definitions](#definitions)
+  - [Books](#books)
+  - [Articles](#articles)
+  - [Courses](#courses)
+  - [Other resources](#other)
+
+# Concepts
+## Definitions
 > About complexity science, which is an interdisciplinary field—at the intersection of mathematics, computer science and natural science—that focuses on discrete models of physical systems. In particular, it focuses on complex systems, which are systems with many interacting components. - [Think Complexity Book](http://greenteapress.com/complexity/html/index.html)
 
 > Complexity characterises the behaviour of a system or model whose components interact in multiple ways and follow local rules, meaning there is no reasonable higher instruction to define the various possible interactions. - [Wikipedia](https://en.wikipedia.org/wiki/Complexity)
 
 > Complexity theory is really a movement of the sciences. Standard sciences tend to see the world as mechanistic...The movement that started complexity looks in the other direction. It’s asking, how do things assemble themselves? How do patterns emerge from these interacting elements? Complexity is looking at interacting elements and asking how they form patterns and how the patterns unfold. - [Wikiquote](https://en.wikiquote.org/wiki/Systems_theory)
+
+![Map of complexity science](Map-of-complexity-science.jpg "Map of complexity science")
 
 # Books
 
@@ -17,13 +31,13 @@ Complexity
 [**Chaos: Making a New Science**](https://www.amazon.com/gp/product/0143113453?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0143113453) by [James Gleick](https://es.wikipedia.org/wiki/James_Gleick) - Describes the Mandelbrot set, Julia sets, and Lorenz attractors without using complicated mathematics. It portrays the efforts of dozens of scientists whose separate work contributed to the developing field. The text remains in print and is widely used as an introduction to the topic for the mathematical layperson.
 
 # Articles
+List of important articles
+
 # Courses
 
 [**Introduction to Complexity**](https://www.complexityexplorer.org/courses/89-introduction-to-complexity) by the [Complexity Explorer/Santa Fe Institute](https://www.complexityexplorer.org/) - In this course you'll learn about the tools used by scientists to understand complex systems. The topics you'll learn about include dynamics, chaos, fractals, information theory, self-organization, agent-based modeling, and networks.
 
 [**Fractals and Scaling**](https://www.complexityexplorer.org/courses/93-fractals-and-scaling) by the [Complexity Explorer/Santa Fe Institute](https://www.complexityexplorer.org/) - Overview of how ideas from fractals and scaling are used to study complex systems.
 
-# Other Resources
-- [Another Complexity Awesome list](https://github.com/sellisd/awesome-complexity)
-- [Complexity Explorer](https://www.complexityexplorer.org) - Provides online courses and educational materials about complexity science
+# Other
 - [Map of Complex systems History](http://www.art-sciencefactory.com/complexity-map_feb09.html) - An impressive overview of the evolution of complex systems thinking.
