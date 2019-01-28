@@ -7,6 +7,7 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 - [Awesome Complexity](#awesome-complexity)
   - [Concepts](#concepts)
     - [Definitions](#definitions)
+    - [Glossary](#glossary)
   - [Books](#books)
   - [Articles](#articles)
   - [Courses](#courses)
