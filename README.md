@@ -78,7 +78,6 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration**](https://www.amazon.com/gp/product/0691015678?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0691015678) by [Robert Axelrod](https://scholar.google.es/citations?user=c_aA0BwAAAAJ&hl=ca&oi=ao) - Introductory text on complexity theory and computer modeling in the social sciences.
 
-
 ### Chaos
 
 [**Chaos: Making a New Science**](https://www.amazon.com/gp/product/0143113453?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0143113453) by [James Gleick](https://es.wikipedia.org/wiki/James_Gleick) - Describes the Mandelbrot set, Julia sets, and Lorenz attractors without using complicated mathematics. It portrays the efforts of dozens of scientists whose separate work contributed to the developing field. The text remains in print and is widely used as an introduction to the topic for the mathematical layperson.
@@ -93,8 +92,74 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 ## Articles and Papers
 
-- [ON COMPUTABLE NUMBERS, WITH AN APPLICATION TO THE ENTSCHEIDUNGSPROBLEM](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) - Explains the concept of Turing Machine, that is a mathematical model of computation that defines an abstract machine.
-- [A Mathematical Theory of Communication](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) - The original paper of C. E. SHANNON about the information theory. It studies the quantification, storage, and communication of information.
+- Anderson P. W., K. J. Arrow, and D. Pines (Eds.). [The Economy as an Evolving Complex System](http://www.econ.tuwien.ac.at/lva/compeco.se/artikel/intro_the_economy_as_an_evolving_complex_system_2_sfi_silverberg_web.pdf), Addison-Wesley, Redwood City CA, 1988
+- Arthur, W. B.: [Competing Technologies, Increasing Returns, and Lock-in by Historical Events](http://dimetic.dime-eu.org/dimetic_files/Lect%204%20to%20Cowan%20-%20Arthur.pdf), The Economic Journal 99: 1989, pp. 106-131.
+- Arthur, W. B.: [Positive Feedbacks in the Economy](http://www.adamdell.com/media/file/original/17_Positive_Feedbacks_in_the_Economy.pdf), Scientific American, February 1990, pp. 92-99.
+- Arthur W. B. Increasing Returns and Path Dependence in the Economy, University of Michigan Press, Ann Arbor, 1994.
+- Arthur W. B.: Bounded Rationality and Inductive Behavior (the El Farol Problem), American Economic Review 84, pp. 406-411, 1994.
+- Ashby W. R. An Introduction to Cybernetics, Methuen, London, 1964. 
+- Ashby W. R. Mechanisms of Intelligence: Writings of Ross Ashby, Intersystems, Salinas CA, 1981.
+- Ashby, W. R. Design for a Brain - The Origin of Adaptive Behaviour. Chapman and Hall, London, 1960.
+- Aulin A. The Cybernetic Laws of Social Progress, Pergamon, Oxford, 1982 
+- Axelrod R. M. The Evolution of Cooperation, Basic Books, New York, 1984. 
+- Bak P. and Chen K.: Self-Organized Criticality, Scientific American: January 1991, pp. 46-53.
+- Bak P., Tang C., & Weisenfeld K.: Self-Organized Criticality. Physical Review A 38: 1988, pp. 364-374. 
+- Bak P., How Nature Works: The Science of Self-Organized Criticality, Springer, Berlin, 1996.
+- Bennett C. H. Dissipation, Information, Computational Complexity and the Definition of Organization. Emerging Syntheses in Science, Pines D. (ed.), Addison-Wesley, Redwood City CA, 1985, pp. 215-233. 
+- Boulding K. E. Ecodynamics: a new theory of societal evolution. Sage, London, 1978.
+- Campbell, D. T. Evolutionary epistemology. Evolutionary epistemology, rationality, and the sociology of knowledge, G. - Radnitzky and W. W. Bartley (eds.), Open Court, La Salle IL, 1987, pp. 47-89.
+- Campbell, D. T. "Downward Causation" in Hierarchically Organized Biological Systems. Studies in the Philosophy of Biology, F.J. Ayala and T. Dobzhansky (eds), Macmillan, New York, 1974 .
+- Casti J.L. Complexification: explaining a paradoxical world through the science of surprise, HarperCollins, 1994.
+- Crutchfield, J., Farmer, J.D., Packard, N., and Shaw, R.: Chaos, Scientific American, 255 (6): December 1986, pp. 46-57.
+- Darwin C. The origin of species by means of natural selection or the preservation of favoured races in the struggle for life. (Edited with and introduction by J W Burrow). Penguin classics, 1985. (First published by John Murray, 1859) 
+- Dawkins R. The selfish gene (2nd edition), Oxford University Press, Oxford, 1989. 
+- Dawkins R. The Extended Phenotype: The Gene as a Unit of Selection, Oxford University Press, Oxford, 1983. 
+- Dawkins R. The Blind Watchmaker, Longman, London, 1986. 
+- Eigen M. and P. Schuster. The Hypercycle: A principle of natural selforganization, Springer, Berlin, 1979 
+- Eigen M., and R. Winkler-Oswatitsch. Steps Toward Life: a perspective on evolution. Oxford University Press, New York, 1992. 
+- Fisher R. A. The Genetical Theory of Natural Selection, 2nd edition, Dover Publications, New York, 1958.
+- Forrester, J. Industrial Dynamics, MIT Press, Cambridge, MA, 1961.
+- Forrester, J. W. World Dynamics (2nd ed.), Wright-Allen Press, Cambridge, MA, 1973.
+- Gell-Mann, M., The Quark and the Jaguar: Adventures in the Simple and the Complex, W.H. Freeman, San Francisco, 1994. 
+- Gleick, J. 1987. Chaos: Making of a New Science, Penguin Books, New York. 
+- Gould S.J., and N. Eldredge. 1977: Punctuated equilibria: the tempo and mode of evolution reconsidered. Paleobiology 3, pp. 115-151.
+- Haken H. Synergetics, Springer, Berlin, 1978.
+- Holland J. H. 1992. Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, - Control and Artificial Intelligence, MIT Press, Cambridge MA. 
+- Holland J.H. Hidden Order : How Adaptation Builds Complexity , Addison-Wesley 1996.
+- Holland J. H., Holyoak K. J., Nisbett R. E. & Thagard P. R. 1986 Induction: Processes of Inference, Learning and - Discovery, MIT Press, Cambridge MA. 
+- Jantsch, E., The Self-Organizing Universe: Scientific and Human Implications of the Emerging Paradigm of Evolution, - Oxford, Pergamon Press, 1979.
+- Kauffman S. A.: Antichaos and Adaptation, Scientific American: August 1991, pp. 78-84 
+- Kauffman S. A. The Origins of Order: Self-Organization and Selection in Evolution, Oxford University Press, New York, 1993 
+- Kauffman S. A. At Home in the Universe: The Search for Laws of Self-Organization and Complexity, Oxford University Press, Oxford, 1995.
+- Langton C. G.: Computation at the Edge of Chaos: phase transitions and emergent computation, Physica D, 42, 1-3, pp. 12-37, 1990. 
+- Langton, C. G. (Ed.). Artificial Life: The Proceedings of an Interdisciplinary Workshop on the Synthesis and Simulation of Living Systems, Addison-Wesley, Redwood City CA, 1989. 
+- Langton, C. G., Taylor, C., Farmer, J.D., and Rasmussen, S. (Eds.). Artificial Life II: Proceedings of the Second Artificial Life Workshop, Addison-Wesley, Redwood City CA, 1992. 
+- Langton, C. G. (ed.), Artificial Life: An Overview, MIT Press, Cambridge, MA, 1995.
+- Mandelbrot B. B. The Fractal Geometry of Nature, Freeman, New York, 1983.
+- Maruyama M.: The Second Cybernetics: Deviation-Amplifying Mutual Causal Processes, American Scientist 51, No. 2: 1963, pp. 164-179.
+- Maturana H. R., & Varela F. J. The Tree of Knowledge: The Biological Roots of Understanding, (rev. ed.), Shambhala, Boston, 1992. 
+- Monod, J. Chance and Necessity, Collins, London, 1972.
+- Nicolis, G, and Prigogine, I. Self-Organization in Non-Equilibrium Systems, Wiley, New York, 1977. 
+- Nicolis, G. and I. Prigogine. Exploring Complexity, Freeman, New York, 1989.
+- Prigogine, I. and Stengers, I. Order Out of Chaos, Bantam Books, New York, 1984 
+- Prigogine, I. From Being to Becoming: Time and complexity in the physical sciences, Freeman, San Francisco, 1980.
+- Ray, T. S. An Approach to the Synthesis of Life. Artificial Life II, C. G. Langton et al. (Eds.), Addison-Wesley, Redwood City CA, 1992, pp. 371-408.
+- Shannon, C. E., and W. Weaver. [The Mathematical Theory of Communication](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) (5th ed.). University of Illinois Press, Chicago, 1963.
+- Simon, H. A. The Sciences of the Artificial (3rd. edition) MIT Press, Cambridge MA, 1996. 
+- Thom, R. Structural Stability and Morphogenesis, Benjamin, Reading MA, 1975.
+- Thompson, D. On Growth and Form, Cambridge University Press, Cambridge, 1917.
+- Turing, Alan M. ["On computable numbers, with an application to the Entscheidungsproblem."](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) Proceedings of the London mathematical society 2.1 (1937): 230-265.
+- Varela, F., Principles of Biological Autonomy, North Holland, New York, 1979.
+- Von Bertalanffy L. General Systems Theory (Revised Edition), George Braziller, New York, 1973. 
+- Von Foerster H. On self-organising systems and their environments. Self-Organising Systems, M.C. Yovits and S. Cameron (Eds.), Pergamon Press, London, 1960, pp. 30-50. 
+- Von Foerster H. and Zopf, G. (Eds.) Principles of Self-Organization, Pergamon, New York, 1962. 
+- Von Foerster H. Observing Systems: Selected papers of Heinz von Foerster. Intersystems, Seaside, CA, 1981.
+- Von Foerster H. Cybernetics of Cybernetics (2nd edition). Future Systems, Minneapolis, 1996. 
+- Von Neumann J. Theory of Self-Reproducing Automata. (Ed. by A. W. Burks), Univ. of Illinois Press, Champaign, 1966. 
+- Waldrop M. M. Complexity: The Emerging Science at the Edge of Order and Chaos, Simon & Schuster, New York, 1992. 
+- Wiener N. Cybernetics: or Control and Communication in the Animal and Machine M.I.T. Press, New York, 1961. 
+- Wolfram S. Cellular Automata and Complexity: Collected Papers, Addison-Wesley, Reading MA, 1994.
+- Zeleny M. (Ed.) 1981, Autopoiesis: A Theory of Living Organization, North Holland, New York.
 
 ## Courses and tutorials
 
