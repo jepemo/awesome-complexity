@@ -35,6 +35,7 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 - [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - 123456789
 - [Chaos](https://en.wikipedia.org/wiki/Chaos_theory) - 123456789
 - [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics) - 123456789
+- [Complex Network](https://en.wikipedia.org/wiki/Complex_network) - 123456789
 - [Developmental systems theory](https://en.wikipedia.org/wiki/Developmental_systems_theory) - 123456789
 - [Dissipative system](https://en.wikipedia.org/wiki/Dissipative_system) - 123456789
 - [Edge of Chaos](https://en.wikipedia.org/wiki/Edge_of_chaos) - 123456789
@@ -44,17 +45,23 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 - [Holon](https://en.wikipedia.org/wiki/Holon_(philosophy)) - System that is both a whole and a part
 - [Information Theory](https://en.wikipedia.org/wiki/Information_theory) - 123456789
 - [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) - 123456789
+- [Phase Transition](https://en.wikipedia.org/wiki/Phase_transition) - 123456789
+- [Robustness](https://en.wikipedia.org/wiki/Robustness) - 123456789
+- [Self-Organization](https://en.wikipedia.org/wiki/Self-organization) - 123456789
+- [Simulation](https://en.wikipedia.org/wiki/Simulation) - 123456789
 - More definitions in the [Complexity Explorer Page](https://www.complexityexplorer.org/explore/glossary).
 
 ## Books
 
-[**Complexity: A Guided Tour**](https://www.amazon.com/gp/product/0199798109/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0199798109&linkCode=as2&tag=jepemolinks-20&linkId=425bcd3ff350748f2bb13e85663a4920) by [Melanie Mitchell](https://scholar.google.es/citations?user=k4gbv2AAAAAJ&hl=ca&oi=ao) - Tour of the sciences of complexity, a broad set of efforts that seek to explain how large-scale complex, organized, and adaptive behavior can emerge from simple interactions among myriad individuals.
+- [**Complexity: A Guided Tour**](https://www.amazon.com/gp/product/0199798109/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0199798109&linkCode=as2&tag=jepemolinks-20&linkId=425bcd3ff350748f2bb13e85663a4920) by [Melanie Mitchell](https://scholar.google.es/citations?user=k4gbv2AAAAAJ&hl=ca&oi=ao) - Tour of the sciences of complexity, a broad set of efforts that seek to explain how large-scale complex, organized, and adaptive behavior can emerge from simple interactions among myriad individuals.
 
-[**Think Complexity: Complexity Science and Computational Modeling**](https://www.amazon.com/gp/product/1492040207?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=1492040207) by [Allen Downey](https://scholar.google.es/citations?user=GxBFR3sAAAAJ&hl=ca&oi=ao) - Introduction to complexity where you’ll use graphs, cellular automata, and agent-based models to study topics in physics, biology, and economics, using Python as a programming language.
+- [**Think Complexity: Complexity Science and Computational Modeling**](https://www.amazon.com/gp/product/1492040207?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=1492040207) by [Allen Downey](https://scholar.google.es/citations?user=GxBFR3sAAAAJ&hl=ca&oi=ao) - Introduction to complexity where you’ll use graphs, cellular automata, and agent-based models to study topics in physics, biology, and economics, using Python as a programming language.
 
-[**Vida artificial: del Caos al Orden** (Spanish)](https://www.amazon.com/gp/product/8493138266/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8493138266&linkCode=as2&tag=jepemolinks-20&linkId=b912007851d458366f6b2ee88ef19b1d) by [José Gabriel Segarra](https://www.amazon.es/JOSE-GABRIEL-SEGARRA-BERENGUER-Libros/s?ie=UTF8&page=1&rh=n%3A599364031%2Ck%3AJOSE%20GABRIEL%20SEGARRA%20BERENGUER) - Easy introduction to many concepts of complex systems.
+- [**Vida artificial: del Caos al Orden** (Spanish)](https://www.amazon.com/gp/product/8493138266/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8493138266&linkCode=as2&tag=jepemolinks-20&linkId=b912007851d458366f6b2ee88ef19b1d) by [José Gabriel Segarra](https://www.amazon.es/JOSE-GABRIEL-SEGARRA-BERENGUER-Libros/s?ie=UTF8&page=1&rh=n%3A599364031%2Ck%3AJOSE%20GABRIEL%20SEGARRA%20BERENGUER) - Easy introduction to many concepts of complex systems.
 
-[**Chaos: Making a New Science**](https://www.amazon.com/gp/product/0143113453?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0143113453) by [James Gleick](https://es.wikipedia.org/wiki/James_Gleick) - Describes the Mandelbrot set, Julia sets, and Lorenz attractors without using complicated mathematics. It portrays the efforts of dozens of scientists whose separate work contributed to the developing field. The text remains in print and is widely used as an introduction to the topic for the mathematical layperson.
+- [**Chaos: Making a New Science**](https://www.amazon.com/gp/product/0143113453?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0143113453) by [James Gleick](https://es.wikipedia.org/wiki/James_Gleick) - Describes the Mandelbrot set, Julia sets, and Lorenz attractors without using complicated mathematics. It portrays the efforts of dozens of scientists whose separate work contributed to the developing field. The text remains in print and is widely used as an introduction to the topic for the mathematical layperson.
+
+- [**Cybernetics: Second Edition: Or the Control and Communication in the Animal and the Machine**](https://www.amazon.com/gp/product/1614275025/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1614275025&linkCode=as2&tag=jepemolinks-20&linkId=e8ad6dd603b511197dd5a25d25c7e918) by [Norbert Wiener](https://en.wikipedia.org/wiki/Norbert_Wiener) - This book contains the first public usage of the term "cybernetics" to refer to self-regulating mechanisms.
 
 ## Articles and Papers
 
