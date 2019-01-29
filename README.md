@@ -28,25 +28,27 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 ### Glossary
 
 - [Adaptive systems](https://en.wikipedia.org/wiki/Adaptive_system) - System that has the ability to adapt to a changing environment.
+- [Agent Based Modeling](https://en.wikipedia.org/wiki/Agent-based_model) - Alass of computational models for simulating the actions and interactions of autonomous agents (both individual or collective entities such as organizations or groups) with a view to assessing their effects on the system as a whole.
 - [Attractor](https://en.wikipedia.org/wiki/Attractor) - In the mathematical field of dynamical systems, an attractor is a set of numerical values toward which a system tends to evolve, for a wide variety of starting conditions of the system.
 - [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis) - The ability of a system to create and maintain itself
 - [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - Intelligence demonstrated by machines.
 - [Chaos](https://en.wikipedia.org/wiki/Chaos_theory) - Interdisciplinary theory stating that within the apparent randomness of chaotic complex systems, there are underlying patterns.
-- [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics) - 123456789
-- [Complex Network](https://en.wikipedia.org/wiki/Complex_network) - 123456789
-- [Developmental systems theory](https://en.wikipedia.org/wiki/Developmental_systems_theory) - 123456789
-- [Dissipative system](https://en.wikipedia.org/wiki/Dissipative_system) - 123456789
-- [Edge of Chaos](https://en.wikipedia.org/wiki/Edge_of_chaos) - 123456789
-- [Emergence](https://en.wikipedia.org/wiki/Emergence) - 123456789
-- [Entropy](https://en.wikipedia.org/wiki/Entropy) - 123456789
-- [Fractal](https://en.wikipedia.org/wiki/Fractal) - 123456789
-- [Holon](https://en.wikipedia.org/wiki/Holon_(philosophy)) - System that is both a whole and a part
-- [Information Theory](https://en.wikipedia.org/wiki/Information_theory) - 123456789
-- [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) - 123456789
-- [Phase Transition](https://en.wikipedia.org/wiki/Phase_transition) - 123456789
-- [Robustness](https://en.wikipedia.org/wiki/Robustness) - 123456789
-- [Self-Organization](https://en.wikipedia.org/wiki/Self-organization) - 123456789
-- [Simulation](https://en.wikipedia.org/wiki/Simulation) - 123456789
+- [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics) - Transdisciplinary approach for exploring regulatory systems—their structures, constraints, and possibilities
+- [Complex Network](https://en.wikipedia.org/wiki/Complex_network) - A Graph (network) with non-trivial topological features.
+- [Complex System](https://en.wikipedia.org/wiki/Complex_system) - System composed of many components which may interact with each other.
+- [Developmental systems theory](https://en.wikipedia.org/wiki/Developmental_systems_theory) - Theoretical perspective (that emphasizes the shared contributions of genes) on biological development, heredity, and evolution.
+- [Dissipative system](https://en.wikipedia.org/wiki/Dissipative_system) - A thermodynamically open system far from thermodynamic equilibrium.
+- [Edge of Chaos](https://en.wikipedia.org/wiki/Edge_of_chaos) - A region of bounded instability (transition space) that engenders a constant dynamic interplay between order and disorder.
+- [Emergence](https://en.wikipedia.org/wiki/Emergence) - Condition of an entity having properties its parts do not have, due to interactions among the parts.
+- [Entropy](https://en.wikipedia.org/wiki/Entropy) - Measure of how many different microstates there are that could give rise to the macrostate that the system is in.
+- [Fractal](https://en.wikipedia.org/wiki/Fractal) - Subset of a Euclidean space for which the Hausdorff dimension strictly exceeds the topological dimension.
+- [Holon](https://en.wikipedia.org/wiki/Holon_(philosophy)) - System that is both a whole and a part.
+- [Information Theory](https://en.wikipedia.org/wiki/Information_theory) - Field that studies the quantification, storage, and communication of information.
+- [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) - Scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without using explicit instructions, relying on models and inference instead.
+- [Phase Transition](https://en.wikipedia.org/wiki/Phase_transition) - Transition between states of matter.
+- [Robustness](https://en.wikipedia.org/wiki/Robustness) - Ability to tolerate perturbations.
+- [Self-Organization](https://en.wikipedia.org/wiki/Self-organization) - A process where some form of overall order arises from local interactions between parts of an initially disordered system.
+- [Simulation](https://en.wikipedia.org/wiki/Simulation) -  Imitation of the operation of a real-world process or system.
 - More definitions in the [Complexity Explorer Page](https://www.complexityexplorer.org/explore/glossary).
 
 ## Books
