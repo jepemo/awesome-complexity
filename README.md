@@ -7,6 +7,11 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 - [Awesome Complexity](#awesome-complexity)
   - [Concepts](#concepts)
   - [Books](#books)
+    - [Introduction](#instroduction)
+    - [Agent modeling](#agent-modeling)
+    - [Chaos](#chaos)
+    - [Cybernetics](#cybernetics)
+    - [Networks](#networks)
   - [Articles](#articles-and-papers)
   - [Courses](#courses-and-tutorials)
   - [Other resources](#other)
@@ -25,7 +30,7 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [Source](https://en.wikipedia.org/wiki/File:Map-of-complexity-science.jpg)
 
-### Glossary
+### Simple Glossary
 
 - [Adaptive systems](https://en.wikipedia.org/wiki/Adaptive_system) - System that has the ability to adapt to a changing environment.
 - [Agent Based Modeling](https://en.wikipedia.org/wiki/Agent-based_model) - Alass of computational models for simulating the actions and interactions of autonomous agents (both individual or collective entities such as organizations or groups) with a view to assessing their effects on the system as a whole.
@@ -61,6 +66,19 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Vida artificial: del Caos al Orden** (Spanish)](https://www.amazon.com/gp/product/8493138266/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8493138266&linkCode=as2&tag=jepemolinks-20&linkId=b912007851d458366f6b2ee88ef19b1d) by [José Gabriel Segarra](https://www.amazon.es/JOSE-GABRIEL-SEGARRA-BERENGUER-Libros/s?ie=UTF8&page=1&rh=n%3A599364031%2Ck%3AJOSE%20GABRIEL%20SEGARRA%20BERENGUER) - Easy introduction to many concepts of complex systems.
 
+### Agent modeling
+
+[**Agent-Based and Individual-Based Modeling: A Practical Introduction**](https://www.amazon.com/gp/product/0691136742/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691136742&linkCode=as2&tag=jepemolinks-20&linkId=896d5f6e46842ea6314776f858e6a7a0) by Steven F. Railsback and Volker Grimm - This book gives the skills to design, implement, and analyze agent-based models.
+
+[**Agent-Based Models (Quantitative Applications in the Social Sciences)**](https://www.amazon.com/gp/product/1412949645?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=1412949645) by [Nigel Gilbert](https://scholar.google.es/citations?user=q-IegAYAAAAJ&hl=ca&oi=ao) - This book reviews a range of examples of agent-based modeling, describes how to design and build your own models, and considers practical issues such as verification, validation, planning a modeling project, and how to structure a scholarly article reporting the results of agent-based modeling.
+
+[**An Introduction to Agent-Based Modeling: Modeling Natural, Social, and Engineered Complex Systems with NetLogo**](https://www.amazon.com/gp/product/0262731894/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262731894&linkCode=as2&tag=jepemolinks-20&linkId=15d5482390bdf3c7c01ab8dabb4f73c9) by Uri Wilensky and William Rand - A comprehensive description of the core concepts, methods, and applications of ABM.
+
+[**Agent-Based Models in Economics: A Toolkit**](https://www.amazon.com/gp/product/1108400043?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=1108400043) by Domenico Delli Gatti - The book discuss the methodological bases of agent-based approaches and demonstrate step-by-step how to build, simulate and analyse ABMs and how to validate their outputs empirically using the data.
+
+[**The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration**](https://www.amazon.com/gp/product/0691015678?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0691015678) by [Robert Axelrod](https://scholar.google.es/citations?user=c_aA0BwAAAAJ&hl=ca&oi=ao) - Introductory text on complexity theory and computer modeling in the social sciences.
+
+
 ### Chaos
 
 [**Chaos: Making a New Science**](https://www.amazon.com/gp/product/0143113453?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0143113453) by [James Gleick](https://es.wikipedia.org/wiki/James_Gleick) - Describes the Mandelbrot set, Julia sets, and Lorenz attractors without using complicated mathematics. It portrays the efforts of dozens of scientists whose separate work contributed to the developing field. The text remains in print and is widely used as an introduction to the topic for the mathematical layperson.
@@ -68,6 +86,10 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 ### Cybernetics
 
 [**Cybernetics: Second Edition: Or the Control and Communication in the Animal and the Machine**](https://www.amazon.com/gp/product/1614275025/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1614275025&linkCode=as2&tag=jepemolinks-20&linkId=e8ad6dd603b511197dd5a25d25c7e918) by [Norbert Wiener](https://en.wikipedia.org/wiki/Norbert_Wiener) - This book contains the first public usage of the term "cybernetics" to refer to self-regulating mechanisms.
+
+### Networks
+
+[**A First Course in Network Theory**](https://www.amazon.com/gp/product/0198726465/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0198726465&linkCode=as2&tag=jepemolinks-20&linkId=da3e3152bd1f52033a945f7f98543aac) by [Ernesto Estrada](https://scholar.google.es/citations?user=6z233EAAAAAJ&hl=ca&oi=ao) - Diverse nature of the study of complex networks by balancing the needs of students from very different backgrounds. It references the most commonly used concepts in network theory, provides examples of their applications in solving practical problems, and clear indications on how to analyse their results.
 
 ## Articles and Papers
 
