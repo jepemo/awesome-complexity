@@ -21,7 +21,7 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 > Complexity theory is really a movement of the sciences. Standard sciences tend to see the world as mechanistic...The movement that started complexity looks in the other direction. It’s asking, how do things assemble themselves? How do patterns emerge from these interacting elements? Complexity is looking at interacting elements and asking how they form patterns and how the patterns unfold. - [Wikiquote](https://en.wikiquote.org/wiki/Systems_theory)
 
-![Map of complexity science](Map-of-complexity-science.jpg "Map of complexity science")
+![Map of complexity science](ComplexityScienceDiagram.png "Map of complexity science")
 
 [Source](https://en.wikipedia.org/wiki/File:Map-of-complexity-science.jpg)
 
