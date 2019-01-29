@@ -27,11 +27,11 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 ### Glossary
 
-- [Adaptive systems](https://en.wikipedia.org/wiki/Adaptive_system) - 123456789
-- [Attractor](https://en.wikipedia.org/wiki/Attractor) - 123456789
+- [Adaptive systems](https://en.wikipedia.org/wiki/Adaptive_system) - System that has the ability to adapt to a changing environment.
+- [Attractor](https://en.wikipedia.org/wiki/Attractor) - In the mathematical field of dynamical systems, an attractor is a set of numerical values toward which a system tends to evolve, for a wide variety of starting conditions of the system.
 - [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis) - The ability of a system to create and maintain itself
-- [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - 123456789
-- [Chaos](https://en.wikipedia.org/wiki/Chaos_theory) - 123456789
+- [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - Intelligence demonstrated by machines.
+- [Chaos](https://en.wikipedia.org/wiki/Chaos_theory) - Interdisciplinary theory stating that within the apparent randomness of chaotic complex systems, there are underlying patterns.
 - [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics) - 123456789
 - [Complex Network](https://en.wikipedia.org/wiki/Complex_network) - 123456789
 - [Developmental systems theory](https://en.wikipedia.org/wiki/Developmental_systems_theory) - 123456789
