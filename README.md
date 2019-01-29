@@ -9,7 +9,7 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
     - [Definitions](#definitions)
     - [Glossary](#glossary)
   - [Books](#books)
-  - [Articles](#articles)
+  - [Articles](#articles-and-papers)
   - [Courses](#courses)
   - [Other resources](#other)
 
@@ -18,7 +18,9 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 ### Definitions
 
 > About complexity science, which is an interdisciplinary field—at the intersection of mathematics, computer science and natural science—that focuses on discrete models of physical systems. In particular, it focuses on complex systems, which are systems with many interacting components. - [Think Complexity Book](http://greenteapress.com/complexity/html/index.html)
+
 > Complexity characterises the behaviour of a system or model whose components interact in multiple ways and follow local rules, meaning there is no reasonable higher instruction to define the various possible interactions. - [Wikipedia](https://en.wikipedia.org/wiki/Complexity)
+
 > Complexity theory is really a movement of the sciences. Standard sciences tend to see the world as mechanistic...The movement that started complexity looks in the other direction. It’s asking, how do things assemble themselves? How do patterns emerge from these interacting elements? Complexity is looking at interacting elements and asking how they form patterns and how the patterns unfold. - [Wikiquote](https://en.wikiquote.org/wiki/Systems_theory)
 
 ![Map of complexity science](Map-of-complexity-science.jpg "Map of complexity science")
@@ -27,7 +29,21 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 ### Glossary
 
-- [Entropy](https://en.wikipedia.org/wiki/Entropy) - Definition.....
+- [Adaptive systems](https://en.wikipedia.org/wiki/Adaptive_system) - 123456789
+- [Attractor](https://en.wikipedia.org/wiki/Attractor) - 123456789
+- [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis) - The ability of a system to create and maintain itself
+- [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - 123456789
+- [Chaos](https://en.wikipedia.org/wiki/Chaos_theory) - 123456789
+- [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics) - 123456789
+- [Developmental systems theory](https://en.wikipedia.org/wiki/Developmental_systems_theory) - 123456789
+- [Dissipative system](https://en.wikipedia.org/wiki/Dissipative_system) - 123456789
+- [Edge of Chaos](https://en.wikipedia.org/wiki/Edge_of_chaos) - 123456789
+- [Emergence](https://en.wikipedia.org/wiki/Emergence) - 123456789
+- [Entropy](https://en.wikipedia.org/wiki/Entropy) - 123456789
+- [Fractal](https://en.wikipedia.org/wiki/Fractal) - 123456789
+- [Holon](https://en.wikipedia.org/wiki/Holon_(philosophy)) - System that is both a whole and a part
+- [Information Theory](https://en.wikipedia.org/wiki/Information_theory) - 123456789
+- [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) - 123456789
 - More definitions in the [Complexity Explorer Page](https://www.complexityexplorer.org/explore/glossary).
 
 ## Books
@@ -40,9 +56,10 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Chaos: Making a New Science**](https://www.amazon.com/gp/product/0143113453?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0143113453) by [James Gleick](https://es.wikipedia.org/wiki/James_Gleick) - Describes the Mandelbrot set, Julia sets, and Lorenz attractors without using complicated mathematics. It portrays the efforts of dozens of scientists whose separate work contributed to the developing field. The text remains in print and is widely used as an introduction to the topic for the mathematical layperson.
 
-## Articles
+## Articles and Papers
 
 - [ON COMPUTABLE NUMBERS, WITH AN APPLICATION TO THE ENTSCHEIDUNGSPROBLEM](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) - Explains the concept of Turing Machine, that is a mathematical model of computation that defines an abstract machine.
+- [A Mathematical Theory of Communication](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) - The original paper of C. E. SHANNON about the information theory. It studies the quantification, storage, and communication of information.
 
 ## Courses
 
