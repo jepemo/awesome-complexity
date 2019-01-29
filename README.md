@@ -9,8 +9,10 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
   - [Books](#books)
     - [Introduction](#instroduction)
     - [Agent modeling](#agent-modeling)
+    - [Applied Complexity](#applied-complexity)
     - [Chaos](#chaos)
     - [Cybernetics](#cybernetics)
+    - [Information Theory](#information-theory)
     - [Networks](#networks)
   - [Articles](#articles-and-papers)
   - [Courses](#courses-and-tutorials)
@@ -78,6 +80,10 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration**](https://www.amazon.com/gp/product/0691015678?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0691015678) by [Robert Axelrod](https://scholar.google.es/citations?user=c_aA0BwAAAAJ&hl=ca&oi=ao) - Introductory text on complexity theory and computer modeling in the social sciences.
 
+### Applied Complexity
+
+[**Increasing Returns and Path Dependence in the Economy (Economics, Cognition, And Society)**](https://www.amazon.com/gp/product/0472064967?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0472064967) by W. Brian Arthur - Pioneering work on an important new approach to economics.
+
 ### Chaos
 
 [**Chaos: Making a New Science**](https://www.amazon.com/gp/product/0143113453?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0143113453) by [James Gleick](https://es.wikipedia.org/wiki/James_Gleick) - Describes the Mandelbrot set, Julia sets, and Lorenz attractors without using complicated mathematics. It portrays the efforts of dozens of scientists whose separate work contributed to the developing field. The text remains in print and is widely used as an introduction to the topic for the mathematical layperson.
@@ -85,6 +91,15 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 ### Cybernetics
 
 [**Cybernetics: Second Edition: Or the Control and Communication in the Animal and the Machine**](https://www.amazon.com/gp/product/1614275025/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1614275025&linkCode=as2&tag=jepemolinks-20&linkId=e8ad6dd603b511197dd5a25d25c7e918) by [Norbert Wiener](https://en.wikipedia.org/wiki/Norbert_Wiener) - This book contains the first public usage of the term "cybernetics" to refer to self-regulating mechanisms.
+
+[**An Introduction to Cybernetics**](https://www.amazon.com/gp/product/1614277656?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=1614277656) by W. Ross Ashby - Another introduction to Cybernetics from 1956.
+
+
+### Information Theory
+
+[**An Introduction to Information Theory: Symbols, Signals and Noise**](https://www.amazon.com/gp/product/B008TVLR0O?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=B008TVLR0O) by John R. Pierce - Updated version of the Shannon theory.
+
+[**Information Theory: A Tutorial Introduction**](https://www.amazon.com/gp/product/0956372856?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0956372856) by James V Stone - Another introduction ideal for for novices who wish to learn the essential principles and applications of information theory.
 
 ### Networks
 
@@ -95,9 +110,7 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 - Anderson P. W., K. J. Arrow, and D. Pines (Eds.). [The Economy as an Evolving Complex System](http://www.econ.tuwien.ac.at/lva/compeco.se/artikel/intro_the_economy_as_an_evolving_complex_system_2_sfi_silverberg_web.pdf), Addison-Wesley, Redwood City CA, 1988
 - Arthur, W. B.: [Competing Technologies, Increasing Returns, and Lock-in by Historical Events](http://dimetic.dime-eu.org/dimetic_files/Lect%204%20to%20Cowan%20-%20Arthur.pdf), The Economic Journal 99: 1989, pp. 106-131.
 - Arthur, W. B.: [Positive Feedbacks in the Economy](http://www.adamdell.com/media/file/original/17_Positive_Feedbacks_in_the_Economy.pdf), Scientific American, February 1990, pp. 92-99.
-- Arthur W. B. Increasing Returns and Path Dependence in the Economy, University of Michigan Press, Ann Arbor, 1994.
-- Arthur W. B.: Bounded Rationality and Inductive Behavior (the El Farol Problem), American Economic Review 84, pp. 406-411, 1994.
-- Ashby W. R. An Introduction to Cybernetics, Methuen, London, 1964. 
+- Arthur W. B.: [Bounded Rationality and Inductive Behavior](https://ocw.tudelft.nl/wp-content/uploads/ElFarolArtur1994.pdf) (the El Farol Problem), American Economic Review 84, pp. 406-411, 1994.
 - Ashby W. R. Mechanisms of Intelligence: Writings of Ross Ashby, Intersystems, Salinas CA, 1981.
 - Ashby, W. R. Design for a Brain - The Origin of Adaptive Behaviour. Chapman and Hall, London, 1960.
 - Aulin A. The Cybernetic Laws of Social Progress, Pergamon, Oxford, 1982 
@@ -182,3 +195,4 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 ## Other
 
 - [Map of Complex systems History](http://www.art-sciencefactory.com/complexity-map_feb09.html) - An impressive overview of the evolution of complex systems thinking.
+- [List of complexity papers](http://pespmc1.vub.ac.be/EVOCOPUB.html)
