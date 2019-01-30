@@ -14,6 +14,7 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
     - [Cybernetics](#cybernetics)
     - [Information Theory](#information-theory)
     - [Networks](#networks)
+    - [Self organization and emergence](#self-organization-and-emergence)
   - [Articles](#articles-and-papers)
   - [Courses](#courses-and-tutorials)
   - [Other resources](#other)
@@ -68,6 +69,8 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Vida artificial: del Caos al Orden** (Spanish)](https://www.amazon.com/gp/product/8493138266/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8493138266&linkCode=as2&tag=jepemolinks-20&linkId=b912007851d458366f6b2ee88ef19b1d) by [José Gabriel Segarra](https://www.amazon.es/JOSE-GABRIEL-SEGARRA-BERENGUER-Libros/s?ie=UTF8&page=1&rh=n%3A599364031%2Ck%3AJOSE%20GABRIEL%20SEGARRA%20BERENGUER) - Easy introduction to many concepts of complex systems.
 
+[**Complexification: Explaining a Paradoxical World Through the Science of Surprise**](https://www.amazon.com/gp/product/0060168889?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0060168889) by John L. Casti
+
 ### Agent modeling
 
 [**Agent-Based and Individual-Based Modeling: A Practical Introduction**](https://www.amazon.com/gp/product/0691136742/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691136742&linkCode=as2&tag=jepemolinks-20&linkId=896d5f6e46842ea6314776f858e6a7a0) by Steven F. Railsback and Volker Grimm - This book gives the skills to design, implement, and analyze agent-based models.
@@ -83,6 +86,10 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 ### Applied Complexity
 
 [**Increasing Returns and Path Dependence in the Economy (Economics, Cognition, And Society)**](https://www.amazon.com/gp/product/0472064967?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0472064967) by W. Brian Arthur - Pioneering work on an important new approach to economics.
+
+[**Cybernetic Laws of Social Progress: Toward a Critical Social Philosophy of Marxism (Systems science and world order library)**](https://www.amazon.com/gp/product/0080257828?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0080257828) by Arvid Aulin
+
+[**Evolutionary Epistemology, Rationality, and the Sociology of Knowledge**](https://www.amazon.com/gp/product/0812690397?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0812690397) by Gerard Radnitzky, W. W. Bartley and Karl Popper - Fundamental ideas of evolutionary epistemology.
 
 ### Chaos
 
@@ -105,6 +112,12 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**A First Course in Network Theory**](https://www.amazon.com/gp/product/0198726465/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0198726465&linkCode=as2&tag=jepemolinks-20&linkId=da3e3152bd1f52033a945f7f98543aac) by [Ernesto Estrada](https://scholar.google.es/citations?user=6z233EAAAAAJ&hl=ca&oi=ao) - Diverse nature of the study of complex networks by balancing the needs of students from very different backgrounds. It references the most commonly used concepts in network theory, provides examples of their applications in solving practical problems, and clear indications on how to analyse their results.
 
+### Self organization and emergence
+
+[**How Nature Works: the science of self-organized criticality**](https://www.amazon.com/gp/product/038798738X?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=038798738X) by Per Bak - Introduction to Complexity/Self-Organization with a lot of nature examples.
+
+[**Ecodynamics: A New Theory of Societal Evolution**](https://www.amazon.com/gp/product/0803916833?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0803916833) by Kenneth E. Boulding - Exposition of how society evolves
+
 ## Articles and Papers
 
 - Anderson P. W., K. J. Arrow, and D. Pines (Eds.). [The Economy as an Evolving Complex System](http://www.econ.tuwien.ac.at/lva/compeco.se/artikel/intro_the_economy_as_an_evolving_complex_system_2_sfi_silverberg_web.pdf), Addison-Wesley, Redwood City CA, 1988
@@ -113,18 +126,12 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 - Arthur W. B.: [Bounded Rationality and Inductive Behavior](https://ocw.tudelft.nl/wp-content/uploads/ElFarolArtur1994.pdf) (the El Farol Problem), American Economic Review 84, pp. 406-411, 1994.
 - Ashby W. R. Mechanisms of Intelligence: Writings of Ross Ashby, Intersystems, Salinas CA, 1981.
 - Ashby, W. R. Design for a Brain - The Origin of Adaptive Behaviour. Chapman and Hall, London, 1960.
-- Aulin A. The Cybernetic Laws of Social Progress, Pergamon, Oxford, 1982 
-- Axelrod R. M. The Evolution of Cooperation, Basic Books, New York, 1984. 
-- Bak P. and Chen K.: Self-Organized Criticality, Scientific American: January 1991, pp. 46-53.
-- Bak P., Tang C., & Weisenfeld K.: Self-Organized Criticality. Physical Review A 38: 1988, pp. 364-374. 
-- Bak P., How Nature Works: The Science of Self-Organized Criticality, Springer, Berlin, 1996.
-- Bennett C. H. Dissipation, Information, Computational Complexity and the Definition of Organization. Emerging Syntheses in Science, Pines D. (ed.), Addison-Wesley, Redwood City CA, 1985, pp. 215-233. 
-- Boulding K. E. Ecodynamics: a new theory of societal evolution. Sage, London, 1978.
-- Campbell, D. T. Evolutionary epistemology. Evolutionary epistemology, rationality, and the sociology of knowledge, G. - Radnitzky and W. W. Bartley (eds.), Open Court, La Salle IL, 1987, pp. 47-89.
+- Axelrod R. M. [The Evolution of Cooperation](http://www.sfs.uni-tuebingen.de/~roland/Literature/Axelrod(81)_the_evolution_of_cooperation.pdf), Basic Books, New York, 1984. 
+- Bak P. and Chen K.: [Self-Organized Criticality](http://www.johnboccio.com/courses/Physics120_2008/docs/btw.pdf), Scientific American: January 1991, pp. 46-53.
+- Bennett C. H. [Dissipation, Information, Computational Complexity and the Definition of Organization](http://www.infoamerica.org/documentos_pdf/bennett.pdf). Emerging Syntheses in Science, Pines D. (ed.), Addison-Wesley, Redwood City CA, 1985, pp. 215-233. 
 - Campbell, D. T. "Downward Causation" in Hierarchically Organized Biological Systems. Studies in the Philosophy of Biology, F.J. Ayala and T. Dobzhansky (eds), Macmillan, New York, 1974 .
-- Casti J.L. Complexification: explaining a paradoxical world through the science of surprise, HarperCollins, 1994.
 - Crutchfield, J., Farmer, J.D., Packard, N., and Shaw, R.: Chaos, Scientific American, 255 (6): December 1986, pp. 46-57.
-- Darwin C. The origin of species by means of natural selection or the preservation of favoured races in the struggle for life. (Edited with and introduction by J W Burrow). Penguin classics, 1985. (First published by John Murray, 1859) 
+- Darwin C. [The origin of species by means of natural selection or the preservation of favoured races in the struggle for life](https://www.amazon.com/gp/product/1502801426?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=1502801426). (Edited with and introduction by J W Burrow). Penguin classics, 1985. (First published by John Murray, 1859) 
 - Dawkins R. The selfish gene (2nd edition), Oxford University Press, Oxford, 1989. 
 - Dawkins R. The Extended Phenotype: The Gene as a Unit of Selection, Oxford University Press, Oxford, 1983. 
 - Dawkins R. The Blind Watchmaker, Longman, London, 1986. 
