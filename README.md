@@ -10,9 +10,8 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
     - [Introduction](#instroduction)
     - [Agent modeling](#agent-modeling)
     - [Applied Complexity](#applied-complexity)
-    - [Chaos](#chaos)
-    - [Cybernetics](#cybernetics)
-    - [Fractals](#fractals)
+    - [Chaos & Fractals](#chaos-and-fractals)
+    - [Cybernetics & Computing](#cybernetics-and-computing)
     - [Information Theory](#information-theory)
     - [Networks](#networks)
     - [Self organization and emergence](#self-organization-and-emergence)
@@ -92,19 +91,31 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Evolutionary Epistemology, Rationality, and the Sociology of Knowledge**](https://amzn.to/2DOFTA3) by Gerard Radnitzky, W. W. Bartley and Karl Popper - Fundamental ideas of evolutionary epistemology.
 
-### Chaos
+[**An Introduction to Models in the Social Sciences**](https://amzn.to/2Trfg9A) by Charles A. Lave and James G. March - Multidisciplinary introduction to model building in the social sciences.
+
+[**Business Dynamics: Systems Thinking and Modeling for a Complex World**](https://amzn.to/2TxwHFq) by John D. Sterman John Sterman.
+
+### Chaos and Fractals
 
 [**Chaos: Making a New Science**](https://amzn.to/2WAtaYV) by [James Gleick](https://es.wikipedia.org/wiki/James_Gleick) - Describes the Mandelbrot set, Julia sets, and Lorenz attractors without using complicated mathematics. It portrays the efforts of dozens of scientists whose separate work contributed to the developing field. The text remains in print and is widely used as an introduction to the topic for the mathematical layperson.
 
-### Cybernetics
+[**The Fractal Geometry of Nature**](https://amzn.to/2GejJZv) by Benoit B. Mandelbrot - Definitive overview of the origins of fractal ideas and their new applications.
+
+[**Chaos and Fractals: New Frontiers of Science**](https://amzn.to/2G4tjyM) by H. Peitgen, H. Jürgens and D. Saupe - This book covers the central ideas and concepts of chaos and fractals as well as many related topics.
+
+[**Chaos and Fractals: An Elementary Introduction**](https://amzn.to/2t8mHHv) by D. P. Feldman - Elementary introduction to chaos and fractals.
+
+[**Chaos and Time-series Analysis**](https://amzn.to/2sXx9kX) by J. C. Sprott - An introduction to developments in chaos and related topics in nonlinear dynamics.
+
+### Cybernetics and Computing
 
 [**Cybernetics: Second Edition: Or the Control and Communication in the Animal and the Machine**](https://amzn.to/2WzlCFV) by [Norbert Wiener](https://en.wikipedia.org/wiki/Norbert_Wiener) - This book contains the first public usage of the term "cybernetics" to refer to self-regulating mechanisms.
 
 [**An Introduction to Cybernetics**](https://amzn.to/2UscTnc) by W. Ross Ashby - Another introduction to Cybernetics from 1956.
 
-### Fractals
+[**An Introduction to Genetic Algorithms**](https://amzn.to/2WtR2h3) by [Melanie Mitchell](https://scholar.google.es/citations?user=k4gbv2AAAAAJ&hl=ca&oi=ao) - Introduction that describes some of the most interesting research in the field and also enables readers to implement and experiment with genetic algorithms on their own. 
 
-[**The Fractal Geometry of Nature**](https://amzn.to/2GejJZv) by Benoit B. Mandelbrot - Definitive overview of the origins of fractal ideas and their new applications.
+[**An Introduction to Kolmogorov Complexity and Its Applications**](https://amzn.to/2TlyBJk) by  Ming Li  and Paul M.B. Vitányi
 
 ### Information Theory
 
