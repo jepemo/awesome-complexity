@@ -12,6 +12,7 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
     - [Applied Complexity](#applied-complexity)
     - [Chaos](#chaos)
     - [Cybernetics](#cybernetics)
+    - [Fractals](#fractals)
     - [Information Theory](#information-theory)
     - [Networks](#networks)
     - [Self organization and emergence](#self-organization-and-emergence)
@@ -101,6 +102,9 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**An Introduction to Cybernetics**](https://www.amazon.com/gp/product/1614277656?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=1614277656) by W. Ross Ashby - Another introduction to Cybernetics from 1956.
 
+### Fractals
+
+[**The Fractal Geometry of Nature**](https://www.amazon.com/gp/product/0716711869?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0716711869) by Benoit B. Mandelbrot - Definitive overview of the origins of fractal ideas and their new applications.
 
 ### Information Theory
 
@@ -118,6 +122,8 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Ecodynamics: A New Theory of Societal Evolution**](https://www.amazon.com/gp/product/0803916833?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0803916833) by Kenneth E. Boulding - Exposition of how society evolves
 
+[**The Hypercycle: A principle of natural self-organization**](https://www.amazon.com/gp/product/3540092935?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=3540092935) by  M. Eigen and Peter Schuster
+
 ## Articles and Papers
 
 - Anderson P. W., K. J. Arrow, and D. Pines (Eds.). [The Economy as an Evolving Complex System](http://www.econ.tuwien.ac.at/lva/compeco.se/artikel/intro_the_economy_as_an_evolving_complex_system_2_sfi_silverberg_web.pdf), Addison-Wesley, Redwood City CA, 1988
@@ -132,54 +138,50 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 - Campbell, D. T. "Downward Causation" in Hierarchically Organized Biological Systems. Studies in the Philosophy of Biology, F.J. Ayala and T. Dobzhansky (eds), Macmillan, New York, 1974 .
 - Crutchfield, J., Farmer, J.D., Packard, N., and Shaw, R.: Chaos, Scientific American, 255 (6): December 1986, pp. 46-57.
 - Darwin C. [The origin of species by means of natural selection or the preservation of favoured races in the struggle for life](https://www.amazon.com/gp/product/1502801426?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=1502801426). (Edited with and introduction by J W Burrow). Penguin classics, 1985. (First published by John Murray, 1859) 
-- Dawkins R. The selfish gene (2nd edition), Oxford University Press, Oxford, 1989. 
-- Dawkins R. The Extended Phenotype: The Gene as a Unit of Selection, Oxford University Press, Oxford, 1983. 
-- Dawkins R. The Blind Watchmaker, Longman, London, 1986. 
-- Eigen M. and P. Schuster. The Hypercycle: A principle of natural selforganization, Springer, Berlin, 1979 
-- Eigen M., and R. Winkler-Oswatitsch. Steps Toward Life: a perspective on evolution. Oxford University Press, New York, 1992. 
-- Fisher R. A. The Genetical Theory of Natural Selection, 2nd edition, Dover Publications, New York, 1958.
-- Forrester, J. Industrial Dynamics, MIT Press, Cambridge, MA, 1961.
-- Forrester, J. W. World Dynamics (2nd ed.), Wright-Allen Press, Cambridge, MA, 1973.
-- Gell-Mann, M., The Quark and the Jaguar: Adventures in the Simple and the Complex, W.H. Freeman, San Francisco, 1994. 
-- Gleick, J. 1987. Chaos: Making of a New Science, Penguin Books, New York. 
-- Gould S.J., and N. Eldredge. 1977: Punctuated equilibria: the tempo and mode of evolution reconsidered. Paleobiology 3, pp. 115-151.
+- Dawkins R. [The selfish gene](https://www.amazon.com/gp/product/0198788606?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0198788606), Oxford University Press, Oxford, 1989. 
+- Dawkins R. [The Extended Phenotype: The Gene as a Unit of Selection](https://www.amazon.com/gp/product/0198788916?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0198788916), Oxford University Press, Oxford, 1983. 
+- Dawkins R. [The Blind Watchmaker](https://www.amazon.com/gp/product/0393351491?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0393351491), Longman, London, 1986. 
+- Eigen M., and R. Winkler-Oswatitsch. [Steps Toward Life: a perspective on evolution](https://www.amazon.com/gp/product/019854751X?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=019854751X). Oxford University Press, New York, 1992. 
+- Fisher R. A. [The Genetical Theory of Natural Selection](https://www.amazon.com/gp/product/1527699943?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=1527699943), 2nd edition, Dover Publications, New York, 1958.
+- Forrester, J. [Industrial Dynamics](https://www.amazon.com/gp/product/0262560011?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0262560011), MIT Press, Cambridge, MA, 1961.
+- Forrester, J. W. [World Dynamics](https://www.amazon.com/gp/product/B0006C0PZM?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=B0006C0PZM), Wright-Allen Press, Cambridge, MA, 1973.
+- Gell-Mann, M., [The Quark and the Jaguar: Adventures in the Simple and the Complex](https://www.amazon.com/gp/product/0805072535?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0805072535), W.H. Freeman, San Francisco, 1994.  
+- Gould S.J., and N. Eldredge. 1977: [Punctuated equilibria: the tempo and mode of evolution reconsidered](https://websites.pmc.ucsc.edu/~pkoch/EART_206/09-0120/Supplemental/Gould%20&%20Eldredge%2077%20Paleobio.pdf). Paleobiology 3, pp. 115-151.
 - Haken H. Synergetics, Springer, Berlin, 1978.
-- Holland J. H. 1992. Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, - Control and Artificial Intelligence, MIT Press, Cambridge MA. 
-- Holland J.H. Hidden Order : How Adaptation Builds Complexity , Addison-Wesley 1996.
-- Holland J. H., Holyoak K. J., Nisbett R. E. & Thagard P. R. 1986 Induction: Processes of Inference, Learning and - Discovery, MIT Press, Cambridge MA. 
-- Jantsch, E., The Self-Organizing Universe: Scientific and Human Implications of the Emerging Paradigm of Evolution, - Oxford, Pergamon Press, 1979.
-- Kauffman S. A.: Antichaos and Adaptation, Scientific American: August 1991, pp. 78-84 
-- Kauffman S. A. The Origins of Order: Self-Organization and Selection in Evolution, Oxford University Press, New York, 1993 
-- Kauffman S. A. At Home in the Universe: The Search for Laws of Self-Organization and Complexity, Oxford University Press, Oxford, 1995.
-- Langton C. G.: Computation at the Edge of Chaos: phase transitions and emergent computation, Physica D, 42, 1-3, pp. 12-37, 1990. 
-- Langton, C. G. (Ed.). Artificial Life: The Proceedings of an Interdisciplinary Workshop on the Synthesis and Simulation of Living Systems, Addison-Wesley, Redwood City CA, 1989. 
+- Holland J. H. 1992. [Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology](https://www.amazon.com/gp/product/0262581116?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0262581116), - Control and Artificial Intelligence, MIT Press, Cambridge MA. 
+- Holland J.H. [Hidden Order : How Adaptation Builds Complexity](https://www.amazon.com/gp/product/0201442302?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0201442302), Addison-Wesley 1996.
+- Holland J. H., Holyoak K. J., Nisbett R. E. & Thagard P. R. 1986 [Induction: Processes of Inference, Learning and - Discovery](https://www.amazon.com/gp/product/0262580969?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0262580969), MIT Press, Cambridge MA. 
+- Jantsch, E., [The Self-Organizing Universe: Scientific and Human Implications of the Emerging Paradigm of Evolution](https://www.amazon.com/gp/product/0080243118?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0080243118), - Oxford, Pergamon Press, 1979.
+- Kauffman S. A.: [Antichaos and Adaptation](http://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/sfi-com/dev/uploads/filer/04/d2/04d2f2e3-9484-47e6-9e10-9d1985750b05/91-09-037.pdf), Scientific American: August 1991, pp. 78-84 
+- Kauffman S. A. [The Origins of Order: Self-Organization and Selection in Evolution](https://www.amazon.com/gp/product/B004HYFQBS?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=B004HYFQBS), Oxford University Press, New York, 1993 
+- Kauffman S. A. [At Home in the Universe: The Search for Laws of Self-Organization and Complexity](https://www.amazon.com/gp/product/0195111303?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0195111303), Oxford University Press, Oxford, 1995.
+- Langton C. G.: [Computation at the Edge of Chaos: phase transitions and emergent computation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.227.1164&rep=rep1&type=pdf), Physica D, 42, 1-3, pp. 12-37, 1990. 
+- Langton, C. G. (Ed.). [Artificial Life: The Proceedings of an Interdisciplinary Workshop on the Synthesis and Simulation of Living Systems](https://www.amazon.com/gp/product/0201093561?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0201093561), Addison-Wesley, Redwood City CA, 1989. 
 - Langton, C. G., Taylor, C., Farmer, J.D., and Rasmussen, S. (Eds.). Artificial Life II: Proceedings of the Second Artificial Life Workshop, Addison-Wesley, Redwood City CA, 1992. 
-- Langton, C. G. (ed.), Artificial Life: An Overview, MIT Press, Cambridge, MA, 1995.
-- Mandelbrot B. B. The Fractal Geometry of Nature, Freeman, New York, 1983.
-- Maruyama M.: The Second Cybernetics: Deviation-Amplifying Mutual Causal Processes, American Scientist 51, No. 2: 1963, pp. 164-179.
-- Maturana H. R., & Varela F. J. The Tree of Knowledge: The Biological Roots of Understanding, (rev. ed.), Shambhala, Boston, 1992. 
-- Monod, J. Chance and Necessity, Collins, London, 1972.
-- Nicolis, G, and Prigogine, I. Self-Organization in Non-Equilibrium Systems, Wiley, New York, 1977. 
-- Nicolis, G. and I. Prigogine. Exploring Complexity, Freeman, New York, 1989.
-- Prigogine, I. and Stengers, I. Order Out of Chaos, Bantam Books, New York, 1984 
-- Prigogine, I. From Being to Becoming: Time and complexity in the physical sciences, Freeman, San Francisco, 1980.
+- Langton, C. G. (ed.), [Artificial Life: An Overview, MIT Press](https://www.amazon.com/gp/product/0262621126?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0262621126), Cambridge, MA, 1995.
+- Maruyama M.: [The Second Cybernetics: Deviation-Amplifying Mutual Causal Processes](http://cleamc11.vub.ac.be/books/Maruyama-SecondCybernetics.pdf), American Scientist 51, No. 2: 1963, pp. 164-179.
+- Maturana H. R., & Varela F. J. [The Tree of Knowledge: The Biological Roots of Understanding](https://www.amazon.com/gp/product/0877736421?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0877736421), (rev. ed.), Shambhala, Boston, 1992. 
+- Monod, J. [Chance and Necessity](https://www.amazon.com/gp/product/0394466152?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0394466152), Collins, London, 1972.
+- Nicolis, G, and Prigogine, I. [Self-Organization in Non-Equilibrium Systems](https://www.amazon.com/gp/product/0471024015?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0471024015), Wiley, New York, 1977. 
+- Nicolis, G. and I. Prigogine. [Exploring Complexity](https://www.amazon.com/gp/product/0716718596?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0716718596), Freeman, New York, 1989.
+- Prigogine, I. and Stengers, I. [Order Out of Chaos](https://www.amazon.com/gp/product/1786631008?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=1786631008), Bantam Books, New York, 1984 
+- Prigogine, I. [From Being to Becoming: Time and complexity in the physical sciences](https://www.amazon.com/gp/product/0716711087?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0716711087), Freeman, San Francisco, 1980.
 - Ray, T. S. An Approach to the Synthesis of Life. Artificial Life II, C. G. Langton et al. (Eds.), Addison-Wesley, Redwood City CA, 1992, pp. 371-408.
 - Shannon, C. E., and W. Weaver. [The Mathematical Theory of Communication](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) (5th ed.). University of Illinois Press, Chicago, 1963.
-- Simon, H. A. The Sciences of the Artificial (3rd. edition) MIT Press, Cambridge MA, 1996. 
-- Thom, R. Structural Stability and Morphogenesis, Benjamin, Reading MA, 1975.
-- Thompson, D. On Growth and Form, Cambridge University Press, Cambridge, 1917.
+- Simon, H. A. [The Sciences of the Artificial](https://www.amazon.com/gp/product/0262691914?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0262691914) (3rd. edition) MIT Press, Cambridge MA, 1996. 
+- Thom, R. [Structural Stability and Morphogenesis](https://www.amazon.com/gp/product/0201406853?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0201406853), Benjamin, Reading MA, 1975.
+- Thompson, D. [On Growth and Form](https://www.amazon.com/gp/product/0486671356?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0486671356), Cambridge University Press, Cambridge, 1917.
 - Turing, Alan M. ["On computable numbers, with an application to the Entscheidungsproblem."](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) Proceedings of the London mathematical society 2.1 (1937): 230-265.
-- Varela, F., Principles of Biological Autonomy, North Holland, New York, 1979.
-- Von Bertalanffy L. General Systems Theory (Revised Edition), George Braziller, New York, 1973. 
-- Von Foerster H. On self-organising systems and their environments. Self-Organising Systems, M.C. Yovits and S. Cameron (Eds.), Pergamon Press, London, 1960, pp. 30-50. 
+- Varela, F., [Principles of Biological Autonomy](https://www.amazon.com/gp/product/0444003215?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0444003215), North Holland, New York, 1979.
+- Von Bertalanffy L. [General Systems Theory](https://www.amazon.com/gp/product/0807600156?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0807600156) (Revised Edition), George Braziller, New York, 1973. 
+- Von Foerster H. [On self-organising systems and their environments](http://www.alice.id.tue.nl/references/foerster-2003.pdf#page=14). Self-Organising Systems, M.C. Yovits and S. Cameron (Eds.), Pergamon Press, London, 1960, pp. 30-50. 
 - Von Foerster H. and Zopf, G. (Eds.) Principles of Self-Organization, Pergamon, New York, 1962. 
 - Von Foerster H. Observing Systems: Selected papers of Heinz von Foerster. Intersystems, Seaside, CA, 1981.
-- Von Foerster H. Cybernetics of Cybernetics (2nd edition). Future Systems, Minneapolis, 1996. 
-- Von Neumann J. Theory of Self-Reproducing Automata. (Ed. by A. W. Burks), Univ. of Illinois Press, Champaign, 1966. 
-- Waldrop M. M. Complexity: The Emerging Science at the Edge of Order and Chaos, Simon & Schuster, New York, 1992. 
-- Wiener N. Cybernetics: or Control and Communication in the Animal and Machine M.I.T. Press, New York, 1961. 
-- Wolfram S. Cellular Automata and Complexity: Collected Papers, Addison-Wesley, Reading MA, 1994.
-- Zeleny M. (Ed.) 1981, Autopoiesis: A Theory of Living Organization, North Holland, New York.
+- Von Foerster H. [Cybernetics of Cybernetics](http://www.alice.id.tue.nl/references/foerster-2003.pdf#page=296). Future Systems, Minneapolis, 1996. 
+- Von Neumann J. [Theory of Self-Reproducing Automata](https://www.amazon.com/gp/product/0252727339?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0252727339). (Ed. by A. W. Burks), Univ. of Illinois Press, Champaign, 1966. 
+- Waldrop M. M. [Complexity: The Emerging Science at the Edge of Order and Chaos](https://www.amazon.com/gp/product/0671872346?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0671872346), Simon & Schuster, New York, 1992. 
+- Wolfram S. [Cellular Automata and Complexity: Collected Papers](https://www.amazon.com/gp/product/0201626640?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0201626640), Addison-Wesley, Reading MA, 1994.
+- Zeleny M. (Ed.) 1981, [Autopoiesis: A Theory of Living Organization](https://www.amazon.com/gp/product/0444003851?ie=UTF8&tag=jepemolinks-20&camp=1789&linkCode=xm2&creativeASIN=0444003851), North Holland, New York.
 
 ## Courses and tutorials
 
