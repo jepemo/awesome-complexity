@@ -71,6 +71,12 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Complexification: Explaining a Paradoxical World Through the Science of Surprise**](https://amzn.to/2WAsmTS) by John L. Casti
 
+[**Complexity Science: The Warwick Masters Course**](https://amzn.to/2WC9ZOm) by Robert S. MacKay - Introduction to the mathematical methods used to understand complexity, with plenty of examples and real-world applications.
+
+[**Complexity: A Very Short Introduction**](https://amzn.to/2G2apIS) by John Holland - Introduces the key elements and conceptual framework of complexity.
+
+[**Diversity and Complexity**](https://amzn.to/2WvMdnv) by Scott Page - Introduction to the role of diversity in complex adaptive systems.
+
 ### Agent modeling
 
 [**Agent-Based and Individual-Based Modeling: A Practical Introduction**](https://amzn.to/2WwuLyZ) by Steven F. Railsback and Volker Grimm - This book gives the skills to design, implement, and analyze agent-based models.
@@ -95,6 +101,8 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Business Dynamics: Systems Thinking and Modeling for a Complex World**](https://amzn.to/2TxwHFq) by John D. Sterman John Sterman.
 
+[**Complex Human Dynamics: From Mind to Societies**](https://amzn.to/2WvYdVU) by Andrzej Nowak, Katarzyna Winkowska-Nowak and David Brée - Research topics in these fields into the language of nonlinear, dynamic and complex systems.
+
 ### Chaos and Fractals
 
 [**Chaos: Making a New Science**](https://amzn.to/2WAtaYV) by [James Gleick](https://es.wikipedia.org/wiki/James_Gleick) - Describes the Mandelbrot set, Julia sets, and Lorenz attractors without using complicated mathematics. It portrays the efforts of dozens of scientists whose separate work contributed to the developing field. The text remains in print and is widely used as an introduction to the topic for the mathematical layperson.
@@ -106,6 +114,8 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 [**Chaos and Fractals: An Elementary Introduction**](https://amzn.to/2t8mHHv) by D. P. Feldman - Elementary introduction to chaos and fractals.
 
 [**Chaos and Time-series Analysis**](https://amzn.to/2sXx9kX) by J. C. Sprott - An introduction to developments in chaos and related topics in nonlinear dynamics.
+
+[**Critical phenomena in natural sciences: Chaos, fractals, self-organization, and disorder**](https://amzn.to/2G3CFLo) by Didier Sornette
 
 ### Cybernetics and Computing
 
@@ -127,6 +137,8 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**A First Course in Network Theory**](https://amzn.to/2t2Q0La) by [Ernesto Estrada](https://scholar.google.es/citations?user=6z233EAAAAAJ&hl=ca&oi=ao) - Diverse nature of the study of complex networks by balancing the needs of students from very different backgrounds. It references the most commonly used concepts in network theory, provides examples of their applications in solving practical problems, and clear indications on how to analyse their results.
 
+[**Complex Networks: Structure, Robustness, and Function**](https://amzn.to/2WzR1Iv) by R. Cohen & S. Havlin - Presentation of the structure and function of complex networks, using a range of examples.
+
 ### Self organization and emergence
 
 [**How Nature Works: the science of self-organized criticality**](https://amzn.to/2WyKU7i) by Per Bak - Introduction to Complexity/Self-Organization with a lot of nature examples.
@@ -134,6 +146,10 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 [**Ecodynamics: A New Theory of Societal Evolution**](https://amzn.to/2DOmtey) by Kenneth E. Boulding - Exposition of how society evolves
 
 [**The Hypercycle: A principle of natural self-organization**](https://amzn.to/2DNFlu0) by  M. Eigen and Peter Schuster
+
+[**Complex Adaptive Systems: An Introduction to Computational Models of Social Life**](https://amzn.to/2UC8dvb) by J. H. Miller & S. E. Page - Introduction to complex adaptive social systems.
+
+[**Complex and Adaptive Dynamical Systems: A Primer**](https://amzn.to/2CWGnm0) by Claudius Gros - Introduction to the central concepts that form our modern understanding of complex and emergent behavior.
 
 ## Articles and Papers
 
