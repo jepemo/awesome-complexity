@@ -8,9 +8,8 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
   - [Concepts](#concepts)
   - [Books](#books)
     - [Introduction](#instroduction)
-    - [Agent modeling](#agent-modeling)
+    - [Agent modeling and Artificial Life](#agent-modeling-and-artificial-life)
     - [Applied Complexity](#applied-complexity)
-    - [Artificial Life](#artificial-life)
     - [Chaos & Fractals](#chaos-and-fractals)
     - [Cybernetics & Computing](#cybernetics-and-computing)
     - [Dynamical Systems and Math](#dynamical-systems-and-math)
@@ -83,7 +82,13 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Introduction to the Modeling and Analysis of Complex Systems**](https://amzn.to/2MIyzbW) by Hiroki Sayama - Introduction to the Modeling and Analysis of Complex Systems.
 
-### Agent modeling
+[**Modeling Complex Systems**](https://amzn.to/2sYx3tn) by N. Boccara - This book illustrates how models of complex systems are built up and provides indispensable mathematical tools for studying their dynamics.
+
+[**Simplicity in Complexity: An Introduction to Complex Systems**](https://amzn.to/2SiIbQ4) by Rajesh R Parwani.
+
+[**Thinking in Systems: A Primer**](https://amzn.to/2D22zuR) by Donella Meadows - This book brings systems thinking out of the realm of computers and equations and into the tangible world, showing readers how to develop the systems-thinking skills that thought leaders across the globe consider critical for 21st-century life.
+
+### Agent modeling and Artificial Life
 
 [**Agent-Based and Individual-Based Modeling: A Practical Introduction**](https://amzn.to/2WwuLyZ) by Steven F. Railsback and Volker Grimm - This book gives the skills to design, implement, and analyze agent-based models.
 
@@ -94,6 +99,8 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 [**Agent-Based Models in Economics: A Toolkit**](https://amzn.to/2t1dlwS) by Domenico Delli Gatti - The book discuss the methodological bases of agent-based approaches and demonstrate step-by-step how to build, simulate and analyse ABMs and how to validate their outputs empirically using the data.
 
 [**The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration**](https://amzn.to/2G2PXYv) by [Robert Axelrod](https://scholar.google.es/citations?user=c_aA0BwAAAAJ&hl=ca&oi=ao) - Introductory text on complexity theory and computer modeling in the social sciences.
+
+[**Introduction to Artificial Life**](https://amzn.to/2WARCtb) by Chris Adami - Theoretical groundwork for understanding the dynamics of systems of self-replicating information, as well as the results of initial experiments carried out with artificial living systems based on this paradigm.
 
 ### Applied Complexity
 
@@ -115,11 +122,11 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Introduction to Econophysics: Correlations and Complexity in Finance**](https://amzn.to/2Sj43KX) by R. N. Mantegna and H. E. Stanley - Statistical physics concepts such as stochastic dynamics, short- and long-range correlations, self-similarity and scaling, permit an understanding of the global behavior of economic systems.
 
+[**Modeling Complex Systems for Public Policies**](https://amzn.to/2G2kPbv) by Roger White, Guy Engelen and Inge Uljee - This book describes the theory and practice of modeling the spatial dynamics of urban growth and transformation.
 
-### Artificial Life
+[**Signs of Life: How Complexity Pervades Biology**](https://amzn.to/2sYZDL1) by R. V. Solé and B. C. Goodwin - This book is an entirely new approach to understanding living systems and will help set the agenda for biology in the coming century.
 
-[**Introduction to Artificial Life**](https://amzn.to/2WARCtb) by Chris Adami - Theoretical groundwork for understanding the dynamics of systems of self-replicating information, as well as the results of initial experiments carried out with artificial living systems based on this paradigm.
-
+[**The Theory of Evolution and Dynamical Systems: Mathematical Aspects of Selection**](https://amzn.to/2WBnmhP) by J. Hofbauer & K. Sigmund - Introduction to dynamical systems and its applications to evolutionary game theory, mathematical ecology, and population genetics.
 
 ### Chaos and Fractals
 
@@ -137,6 +144,8 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Fractals and Chaos Simplified for the Life Sciences**](https://amzn.to/2t3RMvz) by L. S. Leibovitch - Explains the concepts of fractals and chaos and illustrates their uses with examples from biomedical research.
 
+[**Visual Group Theory**](https://amzn.to/2GgC0FK) by Nathan Carter - This text approaches the learning of group theory visually.
+
 ### Cybernetics and Computing
 
 [**Cybernetics: Second Edition: Or the Control and Communication in the Animal and the Machine**](https://amzn.to/2WzlCFV) by [Norbert Wiener](https://en.wikipedia.org/wiki/Norbert_Wiener) - This book contains the first public usage of the term "cybernetics" to refer to self-regulating mechanisms.
@@ -151,6 +160,12 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Introduction to the Theory of Neural Computation**](https://amzn.to/2t38uv2) by J. A. Hertz, A. S. Krogh & R. G. Palmer - Introduction to the neural network models currently under intensive study for computational applications.
 
+[**The Elements of Statistical Learning: Data Mining, Inference, and Prediction**](https://amzn.to/2MOMy08) by T. Hastie, R. Tibshirani and J. Friedman - This book describes the important ideas in a variety of fields such as medicine, biology, finance, and marketing in a common conceptual framework.
+
+[**The Nature of Code**](https://amzn.to/2sZ58t1) by Daniel Shiffman - This book focuses on a range of programming strategies and techniques behind computer simulations of natural systems, from elementary concepts in mathematics and physics to more advanced algorithms that enable sophisticated visual results.
+
+[**The Nature of Computation**](https://amzn.to/2Be3U1O) by C. Moore & S. Mertens - Explanation of the field of computational complexity, starting with P and NP-completeness.
+
 ### Dynamical Systems and Math
 
 [**Dynamics of Complex Systems**](https://amzn.to/2t8x7H7) by Y. Bar-Yam - Descibes the modern unified study of complex systems.
@@ -160,6 +175,16 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 [**Game Theory: A Nontechnical Introduction**](https://amzn.to/2t33Xc0) by M. Davis - Accessible introduction to enormously important intellectual system with numerous applications to social, economic, political problems.
 
 [**Mathematics of Complexity and Dynamical Systems**](https://amzn.to/2sXDxIO) by R. Meyers - Reference to the basic tools and concepts of complexity, systems theory, and dynamical systems from the perspective of pure and applied mathematics.
+
+[**Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering**](https://amzn.to/2GgzHCz) by S. H. Strogatz - This textbook is aimed at newcomers to nonlinear dynamics and chaos, especially students taking a first course in the subject.
+
+[**Principles of System Science**](https://amzn.to/2Wxr8Ja) by George E. Mobus and Michael C. Kalton - A comprehensive introduction to systems structure, function, and modeling as applied in all fields of science and engineering.
+
+[**Statistical Mechanics: Entropy, Order Parameters and Complexity**](https://amzn.to/2GePCRP) by J. P. Sethna.
+
+[**Strategy: An Introduction to Game Theory**](https://amzn.to/2MJwMDw) by J. Watson - Comprehensive introductory game theory textbook, with applications to economics, political science, and social sciences.
+
+[**The Nature of Mathematical Modeling**](https://amzn.to/2sZ6Ydp) by N. Gershenfeld.
 
 ### Information Theory
 
@@ -177,6 +202,14 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Complex Networks: Structure, Robustness, and Function**](https://amzn.to/2WzR1Iv) by R. Cohen & S. Havlin - Presentation of the structure and function of complex networks, using a range of examples.
 
+[**Network Science**](https://amzn.to/2TqGZHJ) by Laszlo Barabasi - This book introduces network science to an interdisciplinary audience.
+
+[**Networks, Crowds, and Markets**](https://amzn.to/2TqiN8j) by D. Easley and J. Kleinberg - This textbook takes an interdisciplinary look at economics, sociology, computing and information science, and applied mathematics to understand networks and behavior.
+
+[**Networks: An Introduction**](https://amzn.to/2WIm7Oa) by M. E. J. Newman - The book brings together for the first time the most important breakthroughs in each of these fields, mathematics, physics, computer and information sciences, biology, and the social sciences, and presents them in a coherent fashion, highlighting the strong interconnections between work in different areas.
+
+[**Social and Economic Networks**](https://amzn.to/2t1Lmxi) by M. O. Jackson - A comprehensive introduction to social and economic networks, drawing on the latest findings in economics, sociology, computer science, physics, and mathematics.
+
 ### Self organization and emergence
 
 [**How Nature Works: the science of self-organized criticality**](https://amzn.to/2WyKU7i) by Per Bak - Introduction to Complexity/Self-Organization with a lot of nature examples.
@@ -188,6 +221,12 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 [**Complex Adaptive Systems: An Introduction to Computational Models of Social Life**](https://amzn.to/2UC8dvb) by J. H. Miller & S. E. Page - Introduction to complex adaptive social systems.
 
 [**Complex and Adaptive Dynamical Systems: A Primer**](https://amzn.to/2CWGnm0) by Claudius Gros - Introduction to the central concepts that form our modern understanding of complex and emergent behavior.
+
+[**Self-organization in Biological Systems**](https://amzn.to/2SfGbbh) by S. Camazine, J-L, Deneubourg, N. R. Sneyd, G. Theraula and E. Bonabeau - This book introduces readers to the basic concepts and tools for studying self-organization and then examines numerous examples of self-organization in the natural world.
+
+[**Self-organized Criticality: Emergent Complex Behavior in Physical and Biological Systems**](https://amzn.to/2BgyDuY) by Henrik Jensen - Introduction to the field of self-organized criticality, and contains an overview of the main research results.
+
+[**The Emergence of Complexity**](https://www.uni-kassel.de/upress/online/frei/978-3-89958-069-3.volltext.frei.pdf) by Jochen Fromm - This book is about how complexity suddenly appears and emerges in complex systems.
 
 ## Articles and Papers
 
