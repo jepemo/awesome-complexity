@@ -305,6 +305,8 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Introduction to Agent-Based Modeling**](https://www.complexityexplorer.org/courses/90-introduction-to-agent-based-modeling-summer-2018) by the [Complexity Explorer/Santa Fe Institute](https://www.complexityexplorer.org/) - Introduction to agent-based modeling to understand and examine a widely diverse and disparate set of complex problems.
 
+[**The Mathematics of Complexity (BIO 131, Fall 2012)**](http://complexity.stanford.edu/classes) by the [Stanford Complexity Group](http://complexity.stanford.edu/) - Many videos about dynamic systems, chaos, fractals, etc.
+
 ## Other
 
 - [Map of Complex systems History](http://www.art-sciencefactory.com/complexity-map_feb09.html) - An impressive overview of the evolution of complex systems thinking.
