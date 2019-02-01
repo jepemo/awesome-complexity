@@ -10,8 +10,10 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
     - [Introduction](#instroduction)
     - [Agent modeling](#agent-modeling)
     - [Applied Complexity](#applied-complexity)
+    - [Artificial Life](#artificial-life)
     - [Chaos & Fractals](#chaos-and-fractals)
     - [Cybernetics & Computing](#cybernetics-and-computing)
+    - [Dynamical Systems and Math](#dynamical-systems-and-math)
     - [Information Theory](#information-theory)
     - [Networks](#networks)
     - [Self organization and emergence](#self-organization-and-emergence)
@@ -77,6 +79,10 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Diversity and Complexity**](https://amzn.to/2WvMdnv) by Scott Page - Introduction to the role of diversity in complex adaptive systems.
 
+[**Introduction to Nonextensive Statistical Mechanics: Approaching a Complex World**](https://amzn.to/2WC6zLU) by C. Tsallis - A pedagogical introduction to the concepts of:nonlinear dynamics, extensivity of the nonadditive entropy, global correlations, generalization of the standard CLT’s, etc.
+
+[**Introduction to the Modeling and Analysis of Complex Systems**](https://amzn.to/2MIyzbW) by Hiroki Sayama - Introduction to the Modeling and Analysis of Complex Systems.
+
 ### Agent modeling
 
 [**Agent-Based and Individual-Based Modeling: A Practical Introduction**](https://amzn.to/2WwuLyZ) by Steven F. Railsback and Volker Grimm - This book gives the skills to design, implement, and analyze agent-based models.
@@ -103,6 +109,18 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Complex Human Dynamics: From Mind to Societies**](https://amzn.to/2WvYdVU) by Andrzej Nowak, Katarzyna Winkowska-Nowak and David Brée - Research topics in these fields into the language of nonlinear, dynamic and complex systems.
 
+[**From Matter to Life: Information and Causality**](https://amzn.to/2GlQtAn) by Sara Imari Walker, Paul C. W. Davies, George F. R. Ellis - This book addresses the role of information in life, and how it can make a difference to what we know about the world.
+
+[**Growing Artificial Societies: Social Science from the Bottom Up**](https://amzn.to/2WCjVHE) by J. M. Epstein and R. L. Axtell
+
+[**Introduction to Econophysics: Correlations and Complexity in Finance**](https://amzn.to/2Sj43KX) by R. N. Mantegna and H. E. Stanley - Statistical physics concepts such as stochastic dynamics, short- and long-range correlations, self-similarity and scaling, permit an understanding of the global behavior of economic systems.
+
+
+### Artificial Life
+
+[**Introduction to Artificial Life**](https://amzn.to/2WARCtb) by Chris Adami - Theoretical groundwork for understanding the dynamics of systems of self-replicating information, as well as the results of initial experiments carried out with artificial living systems based on this paradigm.
+
+
 ### Chaos and Fractals
 
 [**Chaos: Making a New Science**](https://amzn.to/2WAtaYV) by [James Gleick](https://es.wikipedia.org/wiki/James_Gleick) - Describes the Mandelbrot set, Julia sets, and Lorenz attractors without using complicated mathematics. It portrays the efforts of dozens of scientists whose separate work contributed to the developing field. The text remains in print and is widely used as an introduction to the topic for the mathematical layperson.
@@ -115,7 +133,9 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Chaos and Time-series Analysis**](https://amzn.to/2sXx9kX) by J. C. Sprott - An introduction to developments in chaos and related topics in nonlinear dynamics.
 
-[**Critical phenomena in natural sciences: Chaos, fractals, self-organization, and disorder**](https://amzn.to/2G3CFLo) by Didier Sornette
+[**Critical phenomena in natural sciences: Chaos, fractals, self-organization, and disorder**](https://amzn.to/2G3CFLo) by Didier Sornette.
+
+[**Fractals and Chaos Simplified for the Life Sciences**](https://amzn.to/2t3RMvz) by L. S. Leibovitch - Explains the concepts of fractals and chaos and illustrates their uses with examples from biomedical research.
 
 ### Cybernetics and Computing
 
@@ -125,13 +145,31 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**An Introduction to Genetic Algorithms**](https://amzn.to/2WtR2h3) by [Melanie Mitchell](https://scholar.google.es/citations?user=k4gbv2AAAAAJ&hl=ca&oi=ao) - Introduction that describes some of the most interesting research in the field and also enables readers to implement and experiment with genetic algorithms on their own. 
 
-[**An Introduction to Kolmogorov Complexity and Its Applications**](https://amzn.to/2TlyBJk) by  Ming Li  and Paul M.B. Vitányi
+[**An Introduction to Kolmogorov Complexity and Its Applications**](https://amzn.to/2TlyBJk) by  Ming Li  and Paul M.B. Vitányi.
+
+[**Introduction to the Theory of Computation**](https://amzn.to/2CWZ0Gs) by M. Sisper.
+
+[**Introduction to the Theory of Neural Computation**](https://amzn.to/2t38uv2) by J. A. Hertz, A. S. Krogh & R. G. Palmer - Introduction to the neural network models currently under intensive study for computational applications.
+
+### Dynamical Systems and Math
+
+[**Dynamics of Complex Systems**](https://amzn.to/2t8x7H7) by Y. Bar-Yam - Descibes the modern unified study of complex systems.
+
+[**Dynamics: The geometry of behavior**](https://amzn.to/2Sn2r2Q) by R. Abraham and C. D. Shaw - This book will supplement traditional nonlinear dynamics courses at advanced undergraduate level.
+
+[**Game Theory: A Nontechnical Introduction**](https://amzn.to/2t33Xc0) by M. Davis - Accessible introduction to enormously important intellectual system with numerous applications to social, economic, political problems.
+
+[**Mathematics of Complexity and Dynamical Systems**](https://amzn.to/2sXDxIO) by R. Meyers - Reference to the basic tools and concepts of complexity, systems theory, and dynamical systems from the perspective of pure and applied mathematics.
 
 ### Information Theory
 
 [**An Introduction to Information Theory: Symbols, Signals and Noise**](https://amzn.to/2Tl6WZ3) by John R. Pierce - Updated version of the Shannon theory.
 
 [**Information Theory: A Tutorial Introduction**](https://amzn.to/2GfmPMN) by James V Stone - Another introduction ideal for for novices who wish to learn the essential principles and applications of information theory.
+
+[**Elements of Information Theory**](https://amzn.to/2sZHBbq) by T. M. Cover and J. A. Thomas - All the essential topics in information theory are covered in detail, including entropy, data compression, channel capacity, rate distortion, network information theory, and hypothesis testing.
+
+[**Information Theory and Statistics**](https://amzn.to/2WzXmn2) by S. Kullback - Useful text studies logarithmic measures of information and their application to testing statistical hypotheses.
 
 ### Networks
 
