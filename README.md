@@ -307,6 +307,24 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**The Mathematics of Complexity (BIO 131, Fall 2012)**](http://complexity.stanford.edu/classes) by the [Stanford Complexity Group](http://complexity.stanford.edu/) - Many videos about dynamic systems, chaos, fractals, etc.
 
+[**Complexity science: an introducton**](https://www.udemy.com/share/100QDQA0sddFxU/) by [**Udemy**](https://www.udemy.com/share/100F3uA0sddFxU/?xref=E0ETd1tQQ3Z/HEUkMREdLUMWCQ==) - Overview to the main areas of complexity science.
+
+[**Systems Thinking Made Simple**](https://www.udemy.com/share/1005tMA0sddFxU/) by [**Udemy**](https://www.udemy.com/share/100F3uA0sddFxU/?xref=E0ETd1tQQ3Z/HEUkMREdLUMWCQ==) - By the end of taking this course students should have gained a whole new perspective on the world call systems thinking and will have gained a understanding of the formal language of systems theory that can be used within a wide variety of applications.
+
+[**Complex Adaptive Systems**](https://www.udemy.com/share/100mefA0sddFxU/) by [**Udemy**](https://www.udemy.com/share/100F3uA0sddFxU/?xref=E0ETd1tQQ3Z/HEUkMREdLUMWCQ==) - The aim of this course is to give you a solid grasp of the core concepts within the domain of complex adaptive systems theory.
+
+[**Complex Systems Theory: An Introduction**](https://www.udemy.com/share/100rcGA0sddFxU/) by [**Udemy**](https://www.udemy.com/share/100F3uA0sddFxU/?xref=E0ETd1tQQ3Z/HEUkMREdLUMWCQ==) - The aim of this course is to give you a solid grasp of the core concepts within the domain of complex systems theory.
+
+[**Systems Thinking: Essential Concepts**](https://www.udemy.com/share/100wpaA0sddFxU/) by [**Udemy**](https://www.udemy.com/share/100F3uA0sddFxU/?xref=E0ETd1tQQ3Z/HEUkMREdLUMWCQ==) - You will be able to better think in systems and communicate more effectively using the vocabulary of systems theory.
+
+[**Understanding The Process of Emergence**](https://www.udemy.com/share/100jZqA0sddFxU/) by [**Udemy**](https://www.udemy.com/share/100F3uA0sddFxU/?xref=E0ETd1tQQ3Z/HEUkMREdLUMWCQ==) - By the end of this course students will have a solid grasp of the core concepts within emergence theory and will be able to apply them within their specific domain.
+
+[**Chaos Complexity and Emergence**](https://www.udemy.com/share/100iaoA0sddFxU/) by [**Udemy**](https://www.udemy.com/share/100F3uA0sddFxU/?xref=E0ETd1tQQ3Z/HEUkMREdLUMWCQ==).
+
+[**Nonlinear Systems & Chaos: An Introduction**](https://www.udemy.com/share/100hTSA0sddFxU/) by [**Udemy**](https://www.udemy.com/share/100F3uA0sddFxU/?xref=E0ETd1tQQ3Z/HEUkMREdLUMWCQ==) - By the end of taking this course students will have a solid grasp of the phenomena and origins of nonlinearity and the basic concepts required to begin a more indepth and mathematical understanding of the subject.
+
+[**Game Theory: How Cooperation and Competition Work**](https://www.udemy.com/share/100uuMA0sddFxU/) by [**Udemy**](https://www.udemy.com/share/100F3uA0sddFxU/?xref=E0ETd1tQQ3Z/HEUkMREdLUMWCQ==) - By the end of this course you will be able to understand and use the formal models of game theory to interpret situations of both cooperation and competition.
+
 ## Other
 
 - [Map of Complex systems History](http://www.art-sciencefactory.com/complexity-map_feb09.html) - An impressive overview of the evolution of complex systems thinking.
