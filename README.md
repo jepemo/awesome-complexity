@@ -330,3 +330,5 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 - [Map of Complex systems History](http://www.art-sciencefactory.com/complexity-map_feb09.html) - An impressive overview of the evolution of complex systems thinking.
 - [List of complexity papers](http://pespmc1.vub.ac.be/EVOCOPUB.html)
 - [Real time 3D strange attractors scout and hypercomplex fractals](https://www.michelemorrone.eu/glchaosp/)([src](https://github.com/BrutPitt/glChAoS.P))
+- [Interactive Lorenz Attractor](http://www.malinc.se/m/Lorenz.php)
+- [Interactive Mandelbrot Set](http://www.malinc.se/m/Mandelbrot.php)
