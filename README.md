@@ -88,6 +88,8 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 [**Thinking in Systems: A Primer**](https://amzn.to/2D22zuR) by Donella Meadows - This book brings systems thinking out of the realm of computers and equations and into the tangible world, showing readers how to develop the systems-thinking skills that thought leaders across the globe consider critical for 21st-century life.
 
+[**Understanding Complex Systems Springer Series**](https://link.springer.com/bookseries/5394) - Promotes new strategies and paradigms for understanding and realizing applications of complex systems research in a wide variety of ﬁelds and endeavors.
+
 ### Agent modeling and Artificial Life
 
 [**Agent-Based and Individual-Based Modeling: A Practical Introduction**](https://amzn.to/2WwuLyZ) by Steven F. Railsback and Volker Grimm - This book gives the skills to design, implement, and analyze agent-based models.
