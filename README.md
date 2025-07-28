@@ -232,6 +232,7 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 
 ## Articles and Papers
 
+- [2nd Place Solution for MOSE Track in CVPR 2024 PVUW workshop: Complex Video Object Segmentation](https://arxiv.org/abs/2406.08192) - 2024 research article on complex video object segmentation.
 - Anderson P. W., K. J. Arrow, and D. Pines (Eds.). [The Economy as an Evolving Complex System](http://www.econ.tuwien.ac.at/lva/compeco.se/artikel/intro_the_economy_as_an_evolving_complex_system_2_sfi_silverberg_web.pdf), Addison-Wesley, Redwood City CA, 1988
 - Arthur, W. B.: [Competing Technologies, Increasing Returns, and Lock-in by Historical Events](http://dimetic.dime-eu.org/dimetic_files/Lect%204%20to%20Cowan%20-%20Arthur.pdf), The Economic Journal 99: 1989, pp. 106-131.
 - Arthur, W. B.: [Positive Feedbacks in the Economy](http://www.adamdell.com/media/file/original/17_Positive_Feedbacks_in_the_Economy.pdf), Scientific American, February 1990, pp. 92-99.
@@ -306,6 +307,7 @@ There are [other sites with](https://github.com/sellisd/awesome-complexity) cura
 [**Algorithmic Information Dynamics: A Computational Approach to Causality and Living Systems From Networks to Cells**](https://www.complexityexplorer.org/courses/63-algorithmic-information-dynamics-a-computational-approach-to-causality-and-living-systems-from-networks-to-cells-2018) by the [Complexity Explorer/Santa Fe Institute](https://www.complexityexplorer.org/) - Introduction to concepts from the new field of Algorithm Information Dynamics to search for solutions to fundamental questions about causality.
 
 [**Introduction to Agent-Based Modeling**](https://www.complexityexplorer.org/courses/90-introduction-to-agent-based-modeling-summer-2018) by the [Complexity Explorer/Santa Fe Institute](https://www.complexityexplorer.org/) - Introduction to agent-based modeling to understand and examine a widely diverse and disparate set of complex problems.
+[**Introduction to Agent-Based Modeling 2024**](https://www.complexityexplorer.org/news/158-introduction-to-agent-based-modeling-2024) - Updated 2024 offering covering current approaches to agent-based modeling.
 
 [**The Mathematics of Complexity (BIO 131, Fall 2012)**](http://complexity.stanford.edu/classes) by the [Stanford Complexity Group](http://complexity.stanford.edu/) - Many videos about dynamic systems, chaos, fractals, etc.
 
